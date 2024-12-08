@@ -1,15 +1,14 @@
 body {
   margin: 0;
   font-family: "Times New Roman", Times, serif;
-  color: #fff;
-  background-color: #fafafa;
+  color: #333;
+  background-color: #fff;
 }
 
 .header {
   background-color: #fff;
   padding: 2rem;
   text-align: center;
-  border-bottom: 1px solid #eee;
 }
 
 .header-title {
