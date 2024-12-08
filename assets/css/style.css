@@ -27,3 +27,22 @@ p {
   text-align: center;
   font-style: italic;
 }
+
+nav {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  background-color: #fff;
+}
+
+.home-link {
+  font-size: 1.25rem;
+  color: #0077b6;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.home-link:hover {
+  color: #004d6e;
+  text-decoration: underline;
+}
