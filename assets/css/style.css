@@ -1,15 +1,14 @@
 body {
-  margin: 0px 40px;
+  margin: 80px 80px;
   font-family: "Times New Roman", Times, serif;
   color: #333;
   background-color: #fff;
-  text-align: center;
+  text-align: justify;
 }
 
 h1 {
   font-size: 2rem;
   font-family: 'Open Sans', Arial, sans-serif;
-  margin-top: 80px;
   font-weight: bold;
   color: #000;
 }
