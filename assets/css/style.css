@@ -37,12 +37,13 @@ nav {
 
 a {
   font-size: 1rem;
-  color: blue;
+  font-family: 'Open Sans', Arial, sans-serif;
+  color: #2255CC;
   text-decoration: none;
   padding: 10px;
 }
 
 a:hover {
-  color: darkblue;
+  color: #441199;
   text-decoration: underline;
 }
