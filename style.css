@@ -13,7 +13,8 @@ body {
 }
 
 .header-title {
-  font-size: 5rem;
+  font-size: 3rem;
+  font-family: 'Open Sans', Arial, sans-serif;
   margin: 0;
   font-weight: bold;
   color: #000;
@@ -31,5 +32,5 @@ body {
 
 .introduction p {
   font-size: 1.25rem;
-  color: #fff;
+  color: #000;
 }
