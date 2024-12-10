@@ -7,15 +7,21 @@ body {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 3rem;
   font-family: 'Open Sans', Arial, sans-serif;
   font-weight: bold;
   color: #000;
   text-align: center;
 }
 
+h2 {
+  font-size: 1.5rem;
+  margin: 10px 0;
+  color: #000;
+}
+
 p {
-  font-size: 1.25rem;
+  font-size: 1rem;
   color: #000;
 }
 
@@ -46,4 +52,12 @@ a {
 a:hover {
   color: #441199;
   text-decoration: underline;
+}
+
+.post a {
+  text-decoration-style: dotted;
+}
+
+.post a:hover {
+  text-decoration-style: solid;
 }
