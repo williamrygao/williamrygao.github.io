@@ -16,7 +16,7 @@ h1 {
 
 h2 {
   font-family: 'Open Sans', Arial, sans-serif;
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin: 10px 0;
   color: #000;
 }
@@ -36,6 +36,7 @@ p {
 }
 
 nav {
+  font-family: 'Open Sans', Arial, sans-serif;
   font-size: 1rem;
   display: flex;
   justify-content: center;
@@ -54,10 +55,12 @@ nav a:hover {
 }
 
 .post h2 a {
+  color: #000;
   text-decoration: underline;
   text-decoration-style: dotted;
 }
 
 .post h2 a:hover {
+  color: #000;
   text-decoration-style: solid;
 }
