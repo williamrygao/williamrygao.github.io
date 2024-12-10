@@ -14,7 +14,7 @@ title: Home
     </h2>
     <div class="summary">
         <p>
-            Father John Misty
+            Father John Misty's magnum opus • 
         </p>
     </div>
 </div>
