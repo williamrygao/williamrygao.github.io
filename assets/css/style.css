@@ -15,6 +15,7 @@ h1 {
 }
 
 h2 {
+  font-family: 'Open Sans', Arial, sans-serif;
   font-size: 2rem;
   margin: 10px 0;
   color: #000;
@@ -35,33 +36,28 @@ p {
 }
 
 nav {
+  font-size: 1rem;
   display: flex;
   justify-content: center;
   margin-top: 60px;
   background-color: #fff;
 }
 
-a {
-  font-size: 1rem;
-  font-family: 'Open Sans', Arial, sans-serif;
+nav a {
   color: #2255CC;
   text-decoration: none;
 }
 
-a:hover {
+nav a:hover {
   color: #441199;
   text-decoration: underline;
 }
 
 .post h2 a {
-  font-size: 1rem;
-  color: #000;
   text-decoration: underline;
   text-decoration-style: dotted;
 }
 
 .post h2 a:hover {
-  font-size: 1rem;
-  color: #000;
   text-decoration-style: solid;
 }

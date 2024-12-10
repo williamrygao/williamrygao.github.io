@@ -14,7 +14,7 @@ title: Home
     </h2>
     <div class="summary">
         <p>
-            Father John Misty's magnum opus • 
+            Father John Misty's magnum opus • how I learned to love the war
         </p>
     </div>
 </div>
