@@ -10,7 +10,7 @@ title: Home
 
 <div class="post">
     <h2>
-        <a href="/mahashmashana/">Mahashmashana</a>
+        <a href="/mahashmashana">Mahashmashana</a>
     </h2>
     <div class="summary">
         <p>
