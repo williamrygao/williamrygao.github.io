@@ -14,7 +14,7 @@ title: Home
     </h2>
     <div class="summary">
         <p>
-            Father John Misty's magnum opus • how I learned to love the war
+            Mahashmashana • Father John Misty's magnum opus • transcending stagnation • finding the energy • how I learned to love the war
         </p>
     </div>
 </div>
@@ -24,7 +24,7 @@ title: Home
     </h2>
     <div class="summary">
         <p>
-            the mathematician's nightmare
+            the mathematician's nightmare • what is a proof? • metaphor • the axiom of choice • Occam's razor
         </p>
     </div>
 </div>
