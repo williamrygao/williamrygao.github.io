@@ -18,3 +18,13 @@ title: Home
         </p>
     </div>
 </div>
+<div class="post">
+    <h2>
+        <a href="/truth">Truth</a>
+    </h2>
+    <div class="summary">
+        <p>
+            the mathematician's nightmare
+        </p>
+    </div>
+</div>
