@@ -60,9 +60,9 @@ nav a:hover {
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-decoration-style: dotted;
+  text-underline-offset: 5px;
 }
 
 .post h2 a:hover {
-  text-decoration-thickness: 1px;
   text-decoration-style: solid;
 }
