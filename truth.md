@@ -10,7 +10,7 @@ mind of every frustrated mathematician: "What is a proof?" I
 haphazardly rambled about ZFC and LOST, but on my
 ponderously long train ride home I feel deeply disatisfied with
 my answer. I imagine she feels similarly, so I've drafted a
-less circular answer.
+less naive answer.
 
 A proof is a metaphor for truth (beauty follows immediately).
 By metaphor, I mean a bridge between the abstract and the
@@ -26,8 +26,8 @@ reading Aristotle's flowery fascinations with the universe
 more than I do Euclid's rigourous geometry, and the former's
 worldview has proven to be more useful than any of Euclid's
 propositions. But they've also been proven to be absurdly
-incorrect (viz. geocentrism). This incongruency between our 
-lived experience and the scientific worldview admittedly
+incorrect (viz. geocentrism). This incongruence between our 
+lived experience and the scientific worldview
 terrifies me. On the other hand, Euclid's Elements is bound
 to remain an inexorable document of humanity's capacity to 
 do things the right way. A beacon of hope amidst the meaning 
@@ -51,16 +51,16 @@ proofs are important to me.
 
 ## Why do we need proofs? (a non-dismissive answer)
 Metaphors exist not only for aesthetics, but also for promoting
-insight. In even the most vapid of metaphors lurk a panoply of
-parallels, waiting to be uncovered by the thoughtful mind. This
-property is integral to efficient communication, and thus
-civilization at large. Every once in a while, a mathematician is lucky
-enough to have formulated a metaphor (usually several hundred years prior)
-that suggests something of worth to some brilliant scientist — chiral
-symmetry, general relativity.
+insight. Within even the most vapid of metaphors lurks a panoply of
+parallels, waiting to be uncovered by the thoughtful mind. Every once in a while, a 
+mathematician is lucky enough to have formulated a metaphor (usually several hundred years prior)
+that inspires something of concrete scientific interest — molecular
+symmetry, chemical equilibria, the wave equation. The mathematician acts as the 
+intermediary between the unreal and the abstract real, which reduces the
+responsibilities of the scientist to the real.
 
-## A very large asterisk
-Very few people (even in math circles) have noticed, but the study of mathematics
+## A big asterisk
+Not many people (even in math circles) have noticed, but the study of mathematics
 has undergone some very profound shifts in methodology since the last century.
 Most notably, the axiom of choice is accepted to be true by virtually every
 working mathematician today. A sequence of works between 1914 and 1924 *proved*
@@ -68,9 +68,9 @@ that "a sphere the size of the sun can be decomposed and the pieces reassembled
 so as to form a sphere the size of a pea." The only dubious step in the proof
 was its implicit use of the axiom of choice, which the great Zermelo had introduced
 just a decade prior to (dubiously) prove its equivalence to assertion that
-every set can be (well-)ordered. In many ways, the axiom of choice was math's
+every set can be well-ordered. In many ways, the axiom of choice was math's
 quantum uncertainty principle or constancy of the speed of light. Intuition
-about what *should* be true caused many to reject choice. Until the great Gödel
+about what *should* be true caused many to reject choice, until the great Gödel
 (God of mathematical logic) proved that choice was consistent with the
 Zermelo-Fraenkel axioms, and mathematicians, hungry for power over reality,
 allowed mathematical proof to override truth, the very mystery it was conceived to mimic.
@@ -79,9 +79,18 @@ For the sake of my prospective career in mathematics, I must accept the axiom of
 But the greed of the (now-omnipotent) mathematician has caused a rift of comparable
 depth to the natural sciences tearing apart the Aristotlian worldview. Thus
 I can no longer say with confidence that proofs are metaphors for truth, or metaphors
-at all, for that matter. Proofs are now terribly real, so real that I'm not confident
+at all, for that matter. Proofs now seem terribly real; so real that I hardly believe
 in anything I wrote above. I guess that's why I resorted to a subpar lecture on ZFC and
 LOST, why I have such difficulty answering this question, why no one really has an
 answer anymore. And that's why proofs are important to me.
 
 The fate of all humankind, I fear, is in the hands of fools.
+
+## A bigger asterisk
+There's nothing inherently wrong with that either. In some twisted way,
+the axiom of choice being the mathematical equivalent of
+modern physics showing us a reality that contradicts the way we exist could
+very well be just another metaphor. Maybe math has been *too*
+idyllic throughout most of history, and we're only starting to get it right.
+Maybe truth itself is jarring, the realest reality a dissonant mess. A little
+disheartening, I know, but Occam's razor has made its first incision.
