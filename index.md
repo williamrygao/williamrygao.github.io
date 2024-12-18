@@ -10,21 +10,21 @@ title: Home
 
 <div class="post">
     <h2>
-        <a href="/mahashmashana">Knowing I didn’t go nearly far enough.</a>
+        <a href="/truth">Truth</a>
     </h2>
     <div class="summary">
         <p>
-            Mahashmashana • Father John Misty's magnum opus • transcending stagnation • finding the energy • how I learned to love the war
+            what is a proof? • metaphor • the axiom of choice • Occam's razor
         </p>
     </div>
 </div>
 <div class="post">
     <h2>
-        <a href="/truth">Truth</a>
+        <a href="/mahashmashana">Knowing I didn’t go nearly far enough.</a>
     </h2>
     <div class="summary">
         <p>
-            the mathematician's nightmare • what is a proof? • metaphor • the axiom of choice • Occam's razor
+            Mahashmashana, Father John Misty's magnum opus • transcending stagnation • how I learned to love the war
         </p>
     </div>
 </div>

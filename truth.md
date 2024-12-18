@@ -12,7 +12,7 @@ ponderously long train ride home I feel deeply disatisfied with
 my answer. I imagine she feels similarly, so I've drafted a
 less naive answer.
 
-A proof is a metaphor for truth (beauty follows immediately).
+A proof is a metaphor for truth.
 By metaphor, I mean a bridge between the abstract and the
 tangible. Think "life is a carnival" or "romance is a place."
 Only the language of the metaphor is that of set theory, and
@@ -43,8 +43,10 @@ these fields. But in my perfectionist completionist
 regret-ridden ways, I can't help but feel anything other 
 than unrest upon the very thought of it. I can't help but
 completely lose it at the possibility that our best theories are
-complicated beyond our comprehension. Luckily there's no need for
-a razor when everything is necessary. Proofs give me just enough
+complicated beyond our comprehension. Luckily, math is the complete opposite.
+If you can't prove something, simply strengthen your assumptions
+until you can. There's no need for
+a razor when everything is necessary. In this way, proofs give me just enough
 epistemic security to convince myself that my work could have the 
 slightest of consequences on the world. And that's why ~~tunnels~~ 
 proofs are important to me.
@@ -76,15 +78,13 @@ Zermelo-Fraenkel axioms, and mathematicians, hungry for power over reality,
 allowed mathematical proof to override truth, the very mystery it was conceived to mimic.
 
 For the sake of my prospective career in mathematics, I must accept the axiom of choice.
-But the greed of the (now-omnipotent) mathematician has caused a rift of comparable
-depth to the natural sciences tearing apart the Aristotlian worldview. Thus
+But the greed of the (now omnipotent) mathematician has caused a rift in mathematics of comparable
+depth to the natural sciences tearing apart the Aristotlian worldview.
 I can no longer say with confidence that proofs are metaphors for truth, or metaphors
 at all, for that matter. Proofs now seem terribly real; so real that I hardly believe
 in anything I wrote above. I guess that's why I resorted to a subpar lecture on ZFC and
 LOST, why I have such difficulty answering this question, why no one really has an
 answer anymore. And that's why proofs are important to me.
-
-The fate of all humankind, I fear, is in the hands of fools.
 
 ## A bigger asterisk
 There's nothing inherently wrong with that either. In some twisted way,
