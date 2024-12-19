@@ -54,7 +54,7 @@ to its rhythm. It's a mysticism we all believe in, yet we cannot know why. And w
 interrupt it — our incompetence in this right is the root of all our misery. Its scale
 and irreconcilable absurdity inflicts in us an unshakeable urge to play the godhead, to
 upscale our conquest of all the sea. Our trembling dance yields glints of love and truth,
-but it is al lost faster than it is found. Mahāśmaśāna (महामशान) — great cremation ground,
+but it is all lost faster than it is found. Mahāśmaśāna (महामशान) — great cremation ground,
 all things put going thither — the only eternal story: Gilgamesh, Bible, Qu'ran.
 
 That's as good as I can do for the first track, which sets the stage for the rest of

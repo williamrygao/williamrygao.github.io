@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Non-Math Home
 ---
 
 # Welcome!
