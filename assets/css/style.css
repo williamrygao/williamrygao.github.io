@@ -49,6 +49,8 @@ nav {
 a {
   color: #2255CC;
   text-decoration: none;
+  display: inline;
+  margin-right: 0;
 }
 
 a:hover {
