@@ -46,12 +46,12 @@ nav {
   background-color: #fff;
 }
 
-nav a {
+a {
   color: #2255CC;
   text-decoration: none;
 }
 
-nav a:hover {
+a:hover {
   color: #441199;
   text-decoration: underline;
   text-underline-offset: 5px;
@@ -67,4 +67,13 @@ nav a:hover {
 
 .post h2 a:hover {
   text-decoration-style: solid;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
 }
