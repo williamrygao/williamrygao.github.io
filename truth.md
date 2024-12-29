@@ -3,7 +3,7 @@ layout: default
 title: Truth
 ---
 
-# Truth
+# A conjecture to end all conjectures
 
 Today, a friend of mine asked me the question that burns the
 mind of every frustrated mathematician: "What is a proof?" I

@@ -10,7 +10,7 @@ title: Non-Math Home
 
 <div class="post">
     <h2>
-        <a href="/truth">Truth</a>
+        <a href="/truth">A conjecture to end all conjectures</a>
     </h2>
     <div class="summary">
         <p>
