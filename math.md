@@ -14,6 +14,9 @@ please notify me (still working on this!) of any errors.</p>
 
 <ul>
     <li>
-        <a href="/files/submanifolds.pdf" class="pdf-link" target="_blank">Equivalent Formulations of Submanifolds in Euclidean space</a>, Notes for MAT257, November 2024: My favourite lecture from the first half of this course.
+        <a href="/assets/files/cellcomplexes.pdf" class="pdf-link" target="_blank">Topology of Cell Complexes</a>, December 2024: A slightly more complete treatment of the definitions and elementary results about cell complexes scattered across Hatcher's <i>Algebraic Topology</i>.
+    </li>
+    <li>
+        <a href="/assets/files/submanifolds.pdf" class="pdf-link" target="_blank">Equivalent Formulations of Submanifolds in Euclidean space</a>, Notes for MAT257, November 2024: My favourite lecture from the first half of this course.
     </li>
 </ul>
