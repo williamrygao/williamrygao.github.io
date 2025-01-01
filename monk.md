@@ -13,8 +13,8 @@ introductions overwhelm,
 
 — Non, je ne crois pas.
 
-— <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10">
-  <image href="assets/images/segno.png" x="0" y="0" width="10" height="10"/>
+— <svg xmlns="http://www.w3.org/2000/svg" width="1rem" height="1rem" viewBox="0 0 1rem 1rem">
+  <image href="assets/images/segno.png" x="0" y="0" width="1rem" height="1rem"/>
 </svg> Est-ce qu'elle est votre intérêt?
 
 *To Coda.*
