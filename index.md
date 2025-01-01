@@ -8,6 +8,16 @@ title: Non-Math Home
 
 <p class="introduction"><i>&ldquo;...and every attempt is a wholly new start, and a different kind of failure.&rdquo;</i> — T.S. Eliot.</p>
 
+<!-- <div class="post">
+    <h2>
+        <a href="/monk">Who's Afraid of Thelonious Monk?</a>
+    </h2>
+    <div class="summary">
+        <p>
+            I. Brilliant Corners
+        </p>
+    </div>
+</div> -->
 <div class="post">
     <h2>
         <a href="/truth">A conjecture to end all conjectures</a>
