@@ -19,11 +19,17 @@ footwear amasses, DROP YOUR SHOULDERS TAKE A DEEP BREATH... capitulates, coathan
 
 — Nothing good ever happens in Bedford, Massachussets!
 
-white flags unfurl, treaties ratify, music and laughter resound, the English alphabet baffles, Cyrillic even more, currency evaporates, accidents enqueue, greed consumes, guilt preoccupies, power oppresses, prayers whisper, candles smother, the past tyrannizes, the future looms, and chiefly, love tribalizes.
+white flags unfurl, treaties ratify, music and laughter resound, the English alphabet baffles, Cyrillic even more, 
+
+— прощай навсегда.
+
+currency evaporates, accidents enqueue, consequences materialize, plagues bedevil, greed consumes, guilt preoccupies, power oppresses, prayers whisper, candles smother, hours sink, the past tyrannizes, the future looms, and chiefly, love tribalizes.
 
 Their auburn, hooked, tubular windworkers sing in unison. A second duet, drowned by the onslaught of rainways licking the glass, remains anonymous to all those who are present. In less than a moment, a dozen omniscient eyepairs will stare into the distant distance. They will see the grindstone gearing all to the grovel. Mongers and avenuers alike. Meaning miniaturized and memory meagered. All this will make boneyard. They will see a world written in lines of code. They will see the Second Optimism Epidemic and life as narrative. They will see the nuclear fusion energy, Svalbard Global Seed Vault, and Biosphere 2 paradigm. They will see the Golden Age of Yellowknife, Korean reunification, dissolution of the Russian Federation, and Nigeria as a global superpower. But no one will see the timid pair, amidst the peripatetic noise of this vegetable world in lockstep, in the nearhere herenow, in their inconspicuously steady waltz beneath the sky's gaudy tears.
 
-With sufficient retrospection, all is understood.
+The sky is blue, I am too. Yet everything now seems clear.
+
+Not much earlier we were mindlessly sprawling the College Street T&T, having less than a choking hour to accrue 2 kg of pork belly and a conglomeration of other edible and inedible items.
 
 — Est-ce qu'elle est votre intérêt?
 
