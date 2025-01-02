@@ -13,8 +13,6 @@ introductions overwhelm,
 
 — Non, je ne crois pas.
 
-— Est-ce qu'elle est votre intérêt?
-
 footwear amasses, DROP YOUR SHOULDERS TAKE A DEEP BREATH... capitulates, coathangers populate, uncharted corners of the attic surface, the iron cabbagepot inundates and whistles, PLEASE USE YOUR ASSIGNED WASHROOM oscillates, the monolith chimes, medical experts prescribe, kitchen knives clamour, daggers unsheath,
 
 — Nothing good ever happens in Bedford, Massachussets!
@@ -29,7 +27,9 @@ Their auburn, hooked, tubular windworkers sing in unison. A second duet, drowned
 
 The sky is blue, I am too. Yet everything now seems clear.
 
-Not much earlier we were mindlessly sprawling the College Street T&T, having less than a choking hour to accrue 2 kg of pork belly and a conglomeration of other edible and inedible items.
+Not much earlier we were sprawling the College Street T&T for a choking hour, during which we would accrue 2 kg of pork belly to complement the 1 kg already in our freezer, which we hadn't thought to defrost before our stats exam. In my defense, I had sprinted out of the Putnam room at 1:16 down the OISE stairs out onto the street looked left center right and left again jaywalked across Bloor glared at my reflection in the mirrors on Devonshire that only exist because of the endless construction in front of Goldring devoured a pizza slice or two from the Buttery on my way up the stairs to the suite didn't bother taking off my dusty boots walked into my DROP YOUR SHOULDERS... picked up my exam materials headed for the exam centre in a nearly straight line, all while feeling relatively content at the two solves I was able to salvage in my just over two hours of sitting in the same room as the Ignacio Uriarte-Tuero, who I greatly admire for being one of the everrare math prodigies who fulfill their potential as a mathematician, as opposed to a quant or domestic terrorist. As the years bleed off the distinction grows harder to detect.
+
+Yet no set of circumstances in which I found myself on that hectic day (and I solved A5!) was nearly as interesting as the total collapse of my reality induced by the simplest of questions, posed to me in a Romance language upon passing through the PLEASE USE YOUR ASSIGNED WASHROOM for the third time since returning from T&T:
 
 — Est-ce qu'elle est votre intérêt?
 
