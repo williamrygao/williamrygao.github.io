@@ -13,11 +13,7 @@ introductions overwhelm,
 
 — Non, je ne crois pas.
 
-— <svg xmlns="http://www.w3.org/2000/svg" width="1rem" height="1rem" viewBox="0 0 1rem 1rem">
-  <image href="assets/images/segno.png" x="0" y="0" width="1rem" height="1rem"/>
-</svg> Est-ce qu'elle est votre intérêt?
-
-*To Coda.*
+— Est-ce qu'elle est votre intérêt?
 
 footwear amasses, DROP YOUR SHOULDERS TAKE A DEEP BREATH... capitulates, coathangers populate, uncharted corners of the attic surface, the iron cabbagepot inundates and whistles, PLEASE USE YOUR ASSIGNED WASHROOM oscillates, the monolith chimes, medical experts prescribe, kitchen knives clamour, daggers unsheath,
 
@@ -27,7 +23,8 @@ white flags unfurl, treaties ratify, music and laughter resound, the English alp
 
 Their auburn, hooked, tubular windworkers sing in unison. A second duet, drowned by the onslaught of rainways licking the glass, remains anonymous to all those who are present. In less than a moment, a dozen omniscient eyepairs will stare into the distant distance. They will see the grindstone gearing all to the grovel. Mongers and avenuers alike. Meaning miniaturized and memory meagered. All this will make boneyard. They will see a world written in lines of code. They will see the Second Optimism Epidemic and life as narrative. They will see the nuclear fusion energy, Svalbard Global Seed Vault, and Biosphere 2 paradigm. They will see the Golden Age of Yellowknife, Korean reunification, dissolution of the Russian Federation, and Nigeria as a global superpower. But no one will see the timid pair, amidst the peripatetic noise of this vegetable world in lockstep, in the nearhere herenow, in their inconspicuously steady waltz beneath the sky's gaudy tears.
 
-*Dal Segno al Coda.*
+With sufficient retrospection, all is understood.
 
-*Coda.* The answer is a lie, but the song remains the 
-same.
+— Est-ce qu'elle est votre intérêt?
+
+The answer is a lie, but the song remains the same.
