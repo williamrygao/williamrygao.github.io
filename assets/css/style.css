@@ -105,7 +105,7 @@ hr {
 }
 
 hr::after {
-  content: image-set('/assets/images/logo.png' 10x);
+  content: image-set('/assets/images/logo.png' 20x);
   font-size: 1rem;
   filter: grayscale(100%);
 }
