@@ -102,4 +102,6 @@ footer {
   height: auto;
   margin-bottom: 10px;
   filter: grayscale(100%);
+  user-select: none;
+  pointer-events: none;
 }
