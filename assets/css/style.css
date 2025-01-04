@@ -1,4 +1,4 @@
-body {
+html, body {
   height: 100%;
   margin: 2% 25% 2% 25%;
   font-family: Georgia, serif;
@@ -96,17 +96,17 @@ li {
 hr {
   border: none;
   text-align: center;
-  margin: 2rem 0;
 }
 
 hr::after {
   content: "";
   display: inline-block;
-  width: 40px;
-  height: 40px;
+  width: 20px;
+  height: 20px;
   background-image: url('/assets/images/logo.png');
   background-size: contain;
   background-repeat: no-repeat;
+  filter: grayscale(100%);
 }
 
 footer {
