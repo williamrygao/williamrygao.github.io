@@ -4,6 +4,7 @@ title: Truth
 ---
 
 # A conjecture to end all conjectures
+#### December 2024
 
 Today, a friend of mine asked me the question that burns the
 mind of every frustrated mathematician: "What is a proof?" I
