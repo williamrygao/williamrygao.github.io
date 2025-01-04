@@ -98,14 +98,14 @@ li {
 
 hr {
   display: block;
+  border: none;
   margin: 25px auto;
   text-align: center;
   width: 100%;
 }
 
 hr::after {
-  content: url('/assets/images/logo.png');
+  content: image-set('/assets/images/logo.png' 0.1x);
   font-size: 1rem;
   filter: grayscale(100%);
-  transform: scale(0.1);
 }
