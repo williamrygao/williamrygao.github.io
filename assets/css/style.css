@@ -97,18 +97,16 @@ li {
 }
 
 hr {
-  border: none;
+  display: block;
+  margin: 25px auto;
   text-align: center;
+  width: 100%;
 }
 
 hr::after {
-  content: "";
-  vertical-align: middle;
-  display: inline-block;
+  content: url('/assets/images/logo.png');
+  font-size: 1rem;
+  filter: grayscale(100%);
   width: 20px;
   height: 20px;
-  background-image: url('/assets/images/logo.png');
-  background-size: contain;
-  background-repeat: no-repeat;
-  filter: grayscale(100%);
 }
