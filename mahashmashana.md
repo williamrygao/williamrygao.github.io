@@ -12,6 +12,8 @@ excellent ideas that occur to me during my pre-exam delirium. Because music is
 more poignant when it's anchored to salient experiences, and music criticism is
 more compelling when it's drowned in the critic's weltanschauung.
 
+---
+
 The smooth watch reset. The oar plunged into streams of tendency. The great
 annihilator devours what little light remains and is reformed, hunger renewed.
 Stories so familiar, now impossible to ignore in the gentle tepid stream's rupturing.
@@ -59,6 +61,8 @@ upscale our conquest of all the sea. Our trembling dance yields glints of love a
 but it is all lost faster than it is found. Mahāśmaśāna (महामशान) — great cremation ground,
 all things put going thither — the only eternal story: Gilgamesh, Bible, Qu'ran.
 
+---
+
 That's as good as I can do for the first track, which sets the stage for the rest of
 the album. I really should study for CSC265 now, so I'll just leave my favourite
 lyrics from each remaining song:
@@ -76,6 +80,8 @@ if someone let me just play with them.&rdquo;</i> — Josh Tillman and the Accid
 <p class="introduction"><i>&ldquo;I followed my dreams and my dreams said to crawl.&rdquo;</i> — I Guess Time Just Makes Fools of Us All</p>
 
 <p class="introduction"><i>&ldquo;What do you tell the madman who wants to see you dead, when against your will comes wisdom and 40 more years left ahead?&rdquo;</i> — Summer's Gone</p>
+
+---
 
 So I'm learning to love the war, to not become too consumed with the present
 and its horrors, to take a chance on eternity. I often fear we're biologically
