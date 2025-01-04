@@ -36,11 +36,13 @@ h3 {
 
 h6 {
   font-family: 'Open Sans', Arial, sans-serif;
+  font-size: 1rem;
   text-align: right;
+  color: #404040;
 }
 
 p {
-  font-size: 1rem;
+  font-size: 1.25rem;
 }
 
 .introduction {
