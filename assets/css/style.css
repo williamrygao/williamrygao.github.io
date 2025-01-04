@@ -2,7 +2,9 @@ html, body {
   --site-color: #434343;
   --site-background: #f4f4f4;
   height: 100%;
-  font-family: Baskerville, baskerville-urw, 'Baskerville Old Face', 'Libre Baskerville', serif;
+  --font1: Baskerville, baskerville-urw, 'Baskerville Old Face', 'Libre Baskerville', serif;
+  --font2: Noto-serif;
+  font-family: var(--font1);
   color: var(--site-color);
   background-color: var(--site-background);
   text-align: justify;
@@ -21,13 +23,13 @@ main {
 
 h1 {
   font-size: 3rem;
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: var(--font2);
   font-weight: bold;
   text-align: center;
 }
 
 h2 {
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: var(--font2);
   font-size: 1.5rem;
   margin: 10px 0;
 }
@@ -37,10 +39,11 @@ h3 {
 }
 
 h6 {
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: var(--font2);
   font-size: 1rem;
+  font-weight: normal;
   text-align: right;
-  color: #666666;
+  color: #919191;
 }
 
 p {
@@ -57,13 +60,13 @@ p {
 }
 
 nav {
-  font-family: 'Open Sans', Arial, sans-serif;
+  font-family: var(--font2);
   font-size: 1rem;
   display: flex;
   gap: 0.5rem;
   justify-content: center;
   margin-top: 60px;
-  background-color: #fff;
+  background-color: var(--site-background);
 }
 
 a {
@@ -109,8 +112,6 @@ hr {
 }
 
 hr::after {
-  content: image-set('/assets/images/logo.png' 30x);
-  font-size: 1rem;
-  filter: grayscale(100%);
-  vertical-align: center;
+  content: \2042;
+  font-size: 1.25rem;
 }
