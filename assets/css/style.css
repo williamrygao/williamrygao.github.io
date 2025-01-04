@@ -85,3 +85,21 @@ ul {
 li {
   margin: 10px 0;
 }
+
+footer {
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 40px;
+}
+
+.footer-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.footer-logo {
+  width: 80px;
+  height: auto;
+  margin-bottom: 10px;
+  filter: grayscale(100%);
+}
