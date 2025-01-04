@@ -1,8 +1,10 @@
 html, body {
+  --site-color: #434343;
+  --site-background: #f4f4f4;
   height: 100%;
   font-family: Baskerville, baskerville-urw, 'Baskerville Old Face', 'Libre Baskerville', serif;
-  color: #000;
-  background-color: #fff;
+  color: var(--site-color);
+  background-color: var(--site-background);
   text-align: justify;
   line-height: 1.6;
   display: flex;
@@ -38,7 +40,7 @@ h6 {
   font-family: 'Open Sans', Arial, sans-serif;
   font-size: 1rem;
   text-align: right;
-  color: #404040;
+  color: #666666;
 }
 
 p {
@@ -78,7 +80,7 @@ a:hover {
 }
 
 .post h2 a {
-  color: #000;
+  color: var(--site-color);
   text-decoration: underline;
   text-decoration-thickness: 1.5px;
   text-decoration-style: dotted;
