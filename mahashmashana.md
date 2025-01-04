@@ -4,7 +4,7 @@ title: Mahashmashana
 ---
 
 # Knowing I didn't go nearly far enough.
-#### December 2024
+###### December 2024
 
 The best part about Father John Misty releasing what may be the greatest
 album he'll ever make just in time for my finals is having an aqueduct for all the

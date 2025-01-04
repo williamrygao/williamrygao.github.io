@@ -1,6 +1,6 @@
 html, body {
   height: 100%;
-  font-family: Georgia, serif;
+  font-family: Baskerville, baskerville-urw, 'Baskerville Old Face', 'Libre Baskerville', serif;
   color: #000;
   background-color: #fff;
   text-align: justify;
@@ -34,9 +34,9 @@ h3 {
   text-align: center;
 }
 
-h4 {
+h6 {
   font-family: 'Open Sans', Arial, sans-serif;
-  text-align: center;
+  text-align: right;
 }
 
 p {
