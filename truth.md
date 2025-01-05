@@ -95,3 +95,5 @@ very well be just another metaphor. Maybe math has been *too*
 idyllic throughout most of history, and we're only starting to get it right.
 Maybe truth itself is jarring, the realest reality a dissonant mess. A little
 disheartening, I know, but Occam's razor has made its first incision.
+
+---
