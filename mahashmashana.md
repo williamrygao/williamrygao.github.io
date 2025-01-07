@@ -90,3 +90,5 @@ about miraculously adjusting our default settings? The exact orientation that su
 repulsive belief that my personal reality is the realer than any other (cf. I'm Writing a 
 Novel)? Could belief in the future, as trivial as it sounds, be the key to conjuring beauty 
 in a void?
+
+---
