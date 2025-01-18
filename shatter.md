@@ -24,4 +24,5 @@ If the levee breaks, will bullnoses be rinsed clean? Or <br>
 will the current purge every trace of my forlorn sigh? <br>
 Will I walk upright or hobble down in defeat? Or <br>
 will I don that fateful stare and howl: *sic semper tyrannis*.
+
 ---
