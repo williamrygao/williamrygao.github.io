@@ -4,7 +4,7 @@ title: I Shatter
 ---
 
 # I Shatter
-###### January 2024
+###### January 2025
 The hand, knuckling a lone silver filigree ring, pummels <br>
 the inkwell shatters and thickly yet depthlessly immerses <br>
 the lineoleum in wine-colour like bloodthronged treads of <br>

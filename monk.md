@@ -4,7 +4,7 @@ title: Who's Afraid of Thelonious Monk?
 ---
 
 # Who's Afraid of Thelonious Monk?
-###### December-January 2024
+###### December 2024-January 2025
 
 ### I. BRILLIANT CORNERS
 Upper Owen. December 7, 2024. Ernie and Sonny are
