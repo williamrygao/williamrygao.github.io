@@ -20,6 +20,16 @@ title: Non-Math Home
 </div> -->
 <div class="post">
     <h2>
+        <a href="/shatter">I Shatter</a>
+    </h2>
+    <div class="summary">
+        <p>
+            poetry • words, art, and divinity • freedom and tyranny
+        </p>
+    </div>
+</div>
+<div class="post">
+    <h2>
         <a href="/truth">A conjecture to end all conjectures</a>
     </h2>
     <div class="summary">

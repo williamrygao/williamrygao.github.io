@@ -1,0 +1,26 @@
+---
+layout: default
+title: I Shatter
+---
+
+# I Shatter
+###### January 2024
+The hand, knuckling a lone silver filigree ring, pummels <br>
+the inkwell shatters and thickly yet depthlessly immerses <br>
+the lineoleum in wine-colour like bloodthronged treads of <br>
+a stairway to clamber upwards, to his reflection.
+
+His alchemic gaze, unbelieving, unerring, casts <br>
+his hollow word parts the clouds stricken with calamity <br>
+and claws vagrantly at nature's quicksilver symphony <br>
+and sifts the sunshafts as sand cascading across his palm.
+
+From Dresden to Nuremberg, a pantagruelian appetite <br>
+for inhumanity is his patrimony, accompanying the osculation <br>
+of death he cannot perceive. But the sanctity whose shadow <br>
+he stalks promises him a great scheme underlies.
+
+If the levee breaks, will bullnoses be rinsed clean? Or <br>
+will the current purge every trace of my forlorn sigh? <br>
+Will I walk upright or hobble down in defeat? Or <br>
+will I don that fateful stare and howl: *sic semper tyrannis*.
