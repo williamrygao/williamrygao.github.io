@@ -12,8 +12,8 @@ a stairway to clamber upwards, to his reflection.
 
 His alchemic gaze, unbelieving, unerring, casts <br>
 his hollow word parts the clouds stricken with calamity <br>
-and claws vagrantly at nature's quicksilver symphony <br>
-and sifts the sunshafts as sand cascading across his palm.
+and sifts the sunshafts as sand cascading across his palm <br>
+and claws vagrantly at nature's quicksilver symphony.
 
 From Dresden to Nuremberg, a pantagruelian appetite <br>
 for inhumanity is his patrimony, accompanying the osculation <br>
