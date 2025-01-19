@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mahashmashana
+permalink: /mahashmashana/
 ---
 
 # Knowing I didn't go nearly far enough.

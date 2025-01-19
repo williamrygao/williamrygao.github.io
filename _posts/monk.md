@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Who's Afraid of Thelonious Monk?
+permalink: /monk/
 ---
 
 # Who's Afraid of Thelonious Monk?

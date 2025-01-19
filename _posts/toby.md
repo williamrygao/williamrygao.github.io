@@ -1,6 +1,7 @@
 ---
 layout: default
 title: To Composer Toby Driver
+permalink: /toby/
 ---
 
 # To Composer Toby Driver

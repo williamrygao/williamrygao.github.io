@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Truth
+title: A conjecture to end all conjectures
+permalink: /proof/
 ---
 
 # A conjecture to end all conjectures

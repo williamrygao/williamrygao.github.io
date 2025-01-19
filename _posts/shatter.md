@@ -1,6 +1,7 @@
 ---
 layout: default
 title: I Shatter
+permalink: /shatter/
 ---
 
 # I Shatter
