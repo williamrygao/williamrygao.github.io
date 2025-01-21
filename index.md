@@ -8,7 +8,7 @@ title: Non-Math Home
 
 <p class="introduction"><i>&ldquo;...and every attempt is a wholly new start, and a different kind of failure.&rdquo;</i> — T.S. Eliot.</p>
 
-<div class="post">
+<!-- <div class="post">
     <h2>
         <a href="/monk">Who's Afraid of Thelonious Monk?, Act I: Brilliant Corners</a>
     </h2>
@@ -17,7 +17,7 @@ title: Non-Math Home
             Upper Owen Suite • birthdays • a duet • Putnam • STA237 exam • grocery shopping • lost along Capital Beltway • love's bitter mystery
         </p>
     </div>
-</div>
+</div> -->
 <div class="post">
     <h2>
         <a href="/shatter">I Shatter</a>
