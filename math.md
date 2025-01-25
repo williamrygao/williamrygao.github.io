@@ -14,6 +14,9 @@ please notify me (still working on this!) of any errors.</p>
 
 <ul>
     <li>
+        <a href="/assets/files/sum-of-two-squares.pdf" class="pdf-link" target="_blank">Sums of Two Squares</a>, Notes for MAT347, January 2025: A cursory peek into the duet of ring theory and number theory.
+    </li>
+    <li>
         <a href="/assets/files/cell-complexes.pdf" class="pdf-link" target="_blank">Topology of Cell Complexes</a>, December 2024: A slightly more complete treatment of the definitions and elementary results about cell complexes scattered across Hatcher's <i>Algebraic Topology</i>.
     </li>
     <li>
