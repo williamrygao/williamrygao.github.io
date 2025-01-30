@@ -20,6 +20,16 @@ title: Non-Math Home
 </div> -->
 <div class="post">
     <h2>
+        <a href="/abstract-nonsense">Abstract Nonsense as a Vessel for Thought</a>
+    </h2>
+    <div class="summary">
+        <p>
+            category theory • 2-metaphysics • Shostakovich's 15th Symphony • abstraction, the all-encompassing, constructivism • Borges and The Remote Cause • metropolis • LoCT and Oceania • categorization in psychology • soliloquy in Strange Interlude
+        </p>
+    </div>
+</div>
+<div class="post">
+    <h2>
         <a href="/shatter">I Shatter</a>
     </h2>
     <div class="summary">
