@@ -39,7 +39,7 @@ h3 {
   text-align: center;
 }
 
-h6 {
+.date {
   font-family: var(--font2);
   font-size: 0.8rem;
   font-weight: normal;
