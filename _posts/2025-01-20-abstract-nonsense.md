@@ -32,7 +32,7 @@ Another analogy: Borges is debatably my very favourite writer, and of the many t
 
 By simply substituting "proofs" in place of "books," one will obtain the very Gestalt of category theory.
 
-Under this analogy, categories simply become a sort of blueprint for conducting mathematical work, for spinning a marvelous web from seemingly disparate threads, a frozen-through apple of schemes (not the Grothendieck kind) to toss around with as it snowballs into something greater. Not only does this produce the ideal breeding ground for recognition, it also provides a canonical design for making unrealized generalizations (mathematicians LOVE this) and unexpected connections (they love this too, but less so). Or, as Jacques Roubaud, Oulipian, mathematician, phrased it:
+Under this analogy, categories simply become a sort of blueprint for conducting mathematical work, for spinning a marvelous web from seemingly disparate threads, a frozen-through apple of schemes (not the Grothendieck kind) to toss around as it snowballs into something greater. Not only does this produce the ideal breeding ground for recognition, it also provides a canonical design for making unrealized generalizations (mathematicians LOVE this) and unexpected connections (they love this too, but less so). Or, as Jacques Roubaud, Oulipian, mathematician, phrased it:
 
 *"Mathematics is a great city whose suburbs never cease to grow in chaotic fashion on the surrounding lands, while its center is periodically reconstructed, each time following a clearer plan and a more majestic arrangement, demolishing the old sections with their labyrinthine alleys, in order to launch new avenues to the periphery, always more direct, wider and more convenient."*
 

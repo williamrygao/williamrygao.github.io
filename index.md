@@ -10,11 +10,11 @@ title: Non-Math Home
 
 <!-- <div class="post">
     <h2>
-        <a href="/monk">Who's Afraid of Thelonious Monk?, Act I: Brilliant Corners</a>
+        <a href="/monk">Who's Afraid of Thelonious Monk?, Act I: Brilliant Corners, a. die zeit kann mich nicht berühren</a>
     </h2>
     <div class="summary">
         <p>
-            Upper Owen Suite • birthdays • a duet • Putnam • STA237 exam • grocery shopping • lost along Capital Beltway • love's bitter mystery
+            Upper Owen Suite • birthdays • a duet • Putnam • STA237 exam • grocery shopping • Lost Beltway • love's bitter mystery
         </p>
     </div>
 </div> -->
