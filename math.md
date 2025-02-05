@@ -3,7 +3,7 @@ layout: default
 title: Math Home
 ---
 
-# Welcome!
+# Welcome (for the cognoscenti)!
 <p class="introduction">A sandpit for my open questions, 
 original problems possibly with solutions, one-off 
 investigations, and expository notes on math. 
