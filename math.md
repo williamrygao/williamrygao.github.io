@@ -8,7 +8,7 @@ title: Math Home
 original problems possibly with solutions, one-off 
 investigations, and expository notes on math. 
 Correctness is not guaranteed; proceed with caution and 
-please notify me (still working on this!) of any errors.</p>
+please <a href="/contact.html">notify me</a> of any errors.</p>
 
 <p class="introduction"><i>&ldquo;Unfortunately, not all the world is as funny as the one we're making.&rdquo;</i> — John Cage.</p>
 
