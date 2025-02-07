@@ -8,16 +8,16 @@ title: Non-Math Home
 
 <p class="introduction"><i>&ldquo;...and every attempt is a wholly new start, and a different kind of failure.&rdquo;</i> — T.S. Eliot.</p>
 
-<!-- <div class="post">
+<div class="post">
     <h2>
-        <a href="/monk">Who's Afraid of Thelonious Monk?, Act I: Brilliant Corners, a. die zeit kann mich nicht berühren</a>
+        <a href="/monk">Who's Afraid of Thelonious Monk? Act I. Scene 1</a>
     </h2>
     <div class="summary">
         <p>
-            Upper Owen Suite • birthdays • a duet • Putnam • STA237 exam • grocery shopping • Lost Beltway • love's bitter mystery
+            Upper Owen Suite • birthdays • Putnam • STA237 exam • grocery shopping • Archimedes in Appalachia • love's bitter mystery
         </p>
     </div>
-</div> -->
+</div>
 <div class="post">
     <h2>
         <a href="/abstract-nonsense">Abstract Nonsense as a Vessel for Thought</a>
