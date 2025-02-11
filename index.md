@@ -10,7 +10,7 @@ title: Non-Math Home
 
 <div class="post">
     <h2>
-        <a href="/monk">Who's Afraid of Thelonious Monk? Act I. Scene 1</a>
+        <a href="/monk">Who's Afraid of Thelonious Monk? Act I</a>
     </h2>
     <div class="summary">
         <p>
