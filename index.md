@@ -10,6 +10,16 @@ title: Non-Math Home
 
 <div class="post">
     <h2>
+        <a href="/defense">Defense Against the Dark Arts; Manifest V3 and uBlock Origin</a>
+    </h2>
+    <div class="summary">
+        <p>
+            all you need is attention • Ducks, Newburyport • intention • minimalist design • solutions
+        </p>
+    </div>
+</div>
+<div class="post">
+    <h2>
         <a href="/monk">Who's Afraid of Thelonious Monk? Act I</a>
     </h2>
     <div class="summary">
