@@ -10,6 +10,16 @@ title: Non-Math Home
 
 <div class="post">
     <h2>
+        <a href="/ramificursions">Pathological ramificursions in sentiment and brutality</a>
+    </h2>
+    <div class="summary">
+        <p>
+            The Annals • *Pathological ramificursions in sentiment and brutality* • lletraferit • amor fati • dynamic programming • Killing forms • all the mirrors face the walls • Hopf invariant one • Surrogate Drone
+        </p>
+    </div>
+</div>
+<div class="post">
+    <h2>
         <a href="/solitary">Solitary demands for</a>
     </h2>
     <div class="summary">
