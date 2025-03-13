@@ -14,7 +14,7 @@ title: Non-Math Home
     </h2>
     <div class="summary">
         <p>
-            The Annals • *Pathological ramificursions in sentiment and brutality* • lletraferit • amor fati • dynamic programming • Killing forms • all the mirrors face the walls • Hopf invariant one • Surrogate Drone
+            The Annals • <i>Pathological ramificursions in sentiment and brutality</i> • lletraferit • amor fati • dynamic programming • Killing forms • all the mirrors face the walls • Hopf invariant one • Surrogate Drone
         </p>
     </div>
 </div>
