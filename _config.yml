@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 css: /assets/css/style.css
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
