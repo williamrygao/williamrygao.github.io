@@ -26,3 +26,5 @@ please <a href="/contact.html">notify me</a> of any errors.</p>
         <a href="/assets/files/submanifolds.pdf" class="pdf-link" target="_blank">Equivalent Formulations of Submanifolds in Euclidean space</a>, Notes for MAT257, November 2024: My favourite lecture from the first half of this course.
     </li>
 </ul>
+
+---

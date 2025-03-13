@@ -51,6 +51,12 @@ p {
   font-size: 1rem;
 }
 
+.narrow {
+  max-width: 80%;
+  margin: 0 auto;
+  font-size: 0.9rem;
+}
+
 .introduction {
   text-align: center;
 }

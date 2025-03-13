@@ -10,6 +10,16 @@ title: Non-Math Home
 
 <div class="post">
     <h2>
+        <a href="/solitary">Solitary demands for</a>
+    </h2>
+    <div class="summary">
+        <p>
+            exam season plans • Agony April • Nullstellensatz summer
+        </p>
+    </div>
+</div>
+<div class="post">
+    <h2>
         <a href="/defense">Defense Against the Dark Arts; Manifest V3 and uBlock Origin</a>
     </h2>
     <div class="summary">
