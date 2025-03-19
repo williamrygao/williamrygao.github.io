@@ -17,9 +17,10 @@ title: Contact
         <a href="https://ncatlab.org/nlab/show/Weyl+algebra" target="_blank">Weyl algebras</a>, <a href="https://ncatlab.org/nlab/show/quantum+group" target="_blank">quantum groups</a>, or anything representation theory. In preparation for a summer research excursion, I want to amass every perspective possible on these topics.
     </li>
     <li>
-        <a href="https://blackcountrynewroad.bandcamp.com/track/turbines-pigs-live-at-bush-hall" target="_blank">Turbines/Pigs by Black Country, New Road</a>. I'm quite okay with the obvious interpretations (abortion, lead vocalist Isaac Wood's departure from the band, inability to accept grace, Matthew 7:6, various allusions to their other songs) but I hardly see the knot unifying all these threads, which I'm convinced exists.
+        The <a href="https://ncatlab.org/nlab/show/universal+enveloping+algebra" target="_blank">universal enveloping algebra</a> and the <a href="https://ncatlab.org/nlab/show/PBW+theorem" target="_blank">PBW Theorem</a>. Not much to elaborate upon here, I think I'm just at a loss.
     </li>
-    <li> Is there a better way to <a href="https://web.williams.edu/Mathematics/lg5/Rota.pdf" target="_blank">teach undergraduate differential equations</a>? Every undergraduate ODEs course in the world, as far as I am aware, is torn apart on one end by tedious computations of general solutions to linear systems, and on the other hand an interesting but near-impossible-given-the-prerequisites theory of existence and uniqueness. Why not abolish the entire course and relegate the former to first-year linear algebra, the latter to real analysis? Both linear algebra and real analysis courses often struggle to stretch the material across an entire semester, so why not motivate those tedious Jordan form computations and those magical results of uniform convergence with brief digressions to differential equations?
+    <li>
+        This <a href="https://arxiv.org/pdf/2502.17424" target="_blank">paper</a>. I've read various interpretations including "GPT-4o's superego shattered" to "AI is better unaligned." At first glance, it seems to me that OpenAI hasn't done much alignment at all; rather mere inhibition.
     </li>
 </ul>
 
