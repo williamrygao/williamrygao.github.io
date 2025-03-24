@@ -14,6 +14,9 @@ please <a href="/contact.html">notify me</a> of any errors.</p>
 
 <ul>
     <li>
+        <a href="/assets/files/zariski-topology.pdf" class="pdf-link" target="_blank">The Zariski Topology: Naive To Nonsense</a>, March 2025: An increasingly general definition of the Zariski topology, along with some interesting properties.
+    </li>
+    <li>
         <a href="/assets/files/existence-without-uniqueness.pdf" class="pdf-link" target="_blank">Existence Without Uniqueness</a>, March 2025: An elementary proof the Cauchy-Peano theorem, one of the weaker but more beautiful existence theorems for ordinary differential equations.
     </li>
     <li>
