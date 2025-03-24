@@ -4,7 +4,7 @@ title: Non-Math Home
 ---
 
 # Welcome!
-<p class="introduction"> I'm William. I like morning swims, Don DeLillo, and topological K-theory. I write to convince myself that I understand things I clearly do not.</p>
+<p class="introduction"> I'm William. I like morning swims, Don DeLillo, and algebraic geometry. I write to convince myself that I understand things I clearly do not.</p>
 
 <p class="introduction"><i>&ldquo;...and every attempt is a wholly new start, and a different kind of failure.&rdquo;</i> — T.S. Eliot.</p>
 
@@ -14,7 +14,7 @@ title: Non-Math Home
     </h2>
     <div class="summary">
         <p>
-            The Annals • <i>Pathological ramificursions in sentiment and brutality</i> • lletraferit • amor fati • dynamic programming • Killing forms • all the mirrors face the walls • Hopf invariant one • Surrogate Drone
+            The Annals • <i>Pathological ramificursions in sentiment and brutality</i> • lletraferit • amor fati • dynamic programming • Killing forms • all the mirrors face the walls • Surrogate Drone
         </p>
     </div>
 </div>
