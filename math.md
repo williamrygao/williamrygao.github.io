@@ -4,15 +4,14 @@ title: Math Home
 ---
 
 # Welcome (for the cognoscenti)!
-<p class="introduction">A sandpit for my open questions, 
-original problems possibly with solutions, one-off 
-investigations, and expository notes on math. 
-Correctness is not guaranteed; proceed with caution and 
-please <a href="/contact.html">notify me</a> of any errors.</p>
+<p class="introduction">A sandpit for my open questions, original problems possibly with solutions, one-off investigations, and expository notes on math. Correctness is not guaranteed; proceed with caution and please <a href="/contact.html">notify me</a> of any errors.</p>
 
 <p class="introduction"><i>&ldquo;Unfortunately, not all the world is as funny as the one we're making.&rdquo;</i> — John Cage.</p>
 
 <ul>
+    <li>
+        <a href="/assets/files/ring-of-germs.pdf" class="pdf-link" target="_blank">A Ring of Germs</a>, April 2025: A smal nation of constructions using the local ring of germs on a manifold.
+    </li>
     <li>
         <a href="/assets/files/zariski-topology.pdf" class="pdf-link" target="_blank">The Zariski Topology: Naive To Nonsense</a>, March 2025: An increasingly general definition of the Zariski topology, along with some interesting properties.
     </li>
