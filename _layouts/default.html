@@ -20,10 +20,36 @@
   <script type="text/javascript" async
     src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
   </script>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      const dropbtn = document.getElementById('dropbtn');
+      const dropdownContent = document.getElementById('dropdown-content');
+
+      dropbtn.addEventListener('click', function (e) {
+        e.preventDefault(); // Prevents navigating to /math.html immediately
+        dropdownContent.style.display = 
+          dropdownContent.style.display === 'block' ? 'none' : 'block';
+      });
+
+      // Optional: click anywhere else to close the dropdown
+      document.addEventListener('click', function (e) {
+        if (!e.target.closest('.dropdown')) {
+          dropdownContent.style.display = 'none';
+        }
+      });
+    });
+  </script>
 </head>
 <body>
   <nav>
-    <a href="/math.html">MATH</a>
+    <div class="dropdown">
+      <a href="/math.html" class="dropbtn" id="dropbtn">MATH</a>
+      <div class="dropdown-content" id="dropdown-content">
+        <a href="/math.html">NOTES</a>
+        <a href="/talks.html">TALKS</a>
+      </div>
+    </div>
     <span>•</span>
     <a href="/index.html">NON-MATH</a>
     <span>•</span>

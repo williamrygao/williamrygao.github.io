@@ -123,3 +123,28 @@ hr::after {
   content: "\2042";
   font-size: 1rem;
 }
+
+/* Dropdown container */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Initially hide dropdown content */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: var(--site-background);
+  box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Style dropdown links */
+.dropdown-content a {
+  padding: 8px 20px;
+  display: block;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
