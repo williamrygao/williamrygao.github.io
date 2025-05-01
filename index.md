@@ -10,7 +10,7 @@ title: Non-Math Home
 
 <div class="post">
     <h2>
-        <a href="/headlights">All I'd like to keep</a>
+        <a href="/keep">All I'd like to keep</a>
     </h2>
     <div class="summary">
         <p>
