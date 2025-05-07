@@ -10,6 +10,16 @@ title: Non-Math Home
 
 <div class="post">
     <h2>
+        <a href="/classrooms1">Why Classrooms Fail I</a>
+    </h2>
+    <div class="summary">
+        <p>
+            Feb-May 2025 Intro to Number Theory • Euclidean Algorithm and Bézout's Lemmma • base number arithmetic • RSA encryption • applied math • teaching intuition • participation • acknowledgements
+        </p>
+    </div>
+</div>
+<div class="post">
+    <h2>
         <a href="/keep">All I'd like to keep</a>
     </h2>
     <div class="summary">
