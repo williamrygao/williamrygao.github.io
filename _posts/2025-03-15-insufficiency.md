@@ -54,6 +54,6 @@ Of course, this last example has hardly anything to do with relationships; the s
 
 ---
 
-So if Bruno understood Bayesian inference, he might recognize that following medical advice to rest, although an immediate obstacle to kicked his beloved football, could plausibly enhance his athletic performance and dilute his risk of being — God forbid — sidelined due to injury, an even greater obstacle to kicking his beloved football.
+So if Bruno understood Bayesian inference, he might recognize that following medical advice to rest, although an immediate obstacle to kicking his beloved football, could plausibly enhance his athletic performance and dilute his risk of being — God forbid — sidelined due to injury, an even greater obstacle to kicking his beloved football.
 
 ---
