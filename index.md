@@ -10,6 +10,16 @@ title: Non-Math Home
 
 <div class="post">
     <h2>
+        <a href="/insufficiency">A complete guide to insufficiency</a>
+    </h2>
+    <div class="summary">
+        <p>
+            Bruno Fernandes • parenthood • cheerfully, the first fundamental form • the second fundamental form • mathematics • grad school • choosing jobs • killing friends
+        </p>
+    </div>
+</div>
+<div class="post">
+    <h2>
         <a href="/classrooms1">Why Classrooms Fail I</a>
     </h2>
     <div class="summary">
