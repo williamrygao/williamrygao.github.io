@@ -10,7 +10,10 @@ title: Math Home
 
 <ul>
     <li>
-        <a href="/assets/files/ring-of-germs.pdf" class="pdf-link" target="_blank">A Ring of Germs</a>, April 2025: A smal nation of constructions using the local ring of germs on a manifold.
+        <a href="/assets/files/sheaf.pdf" class="pdf-link" target="_blank">Sheaving on the Prime Spectrum</a>, June 2025: We construct the sheaf of rings on the prime spectrum.
+    </li>
+    <li>
+        <a href="/assets/files/ring-of-germs.pdf" class="pdf-link" target="_blank">A Ring of Germs</a>, April 2025: A small nation of constructions using the local ring of germs on a manifold.
     </li>
     <li>
         <a href="/assets/files/zariski-topology.pdf" class="pdf-link" target="_blank">The Zariski Topology: Naive To Nonsense</a>, March 2025: An increasingly general definition of the Zariski topology, along with some interesting properties.
