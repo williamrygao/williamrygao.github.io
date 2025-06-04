@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Math Home
+title: Expository Notes
 ---
 
-# Welcome (for the cognoscenti)!
+# Expository Notes
 <p class="introduction">A sandpit for my open questions, original problems possibly with solutions, one-off investigations, and expository notes on math. Correctness is not guaranteed; proceed with caution and please <a href="/contact.html">notify me</a> of any errors.</p>
+
+<img src="/assets/images/expos.png" alt="Betts Geometrical Psychology" style="width: 30%">
 
 <p class="introduction"><i>&ldquo;Unfortunately, not all the world is as funny as the one we're making.&rdquo;</i> — John Cage.</p>
 
