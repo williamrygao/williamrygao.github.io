@@ -1,9 +1,11 @@
 html, body {
   --site-color: #434343;
+  --site-color-light: #7a7979;
   --site-background: #f4f4f4;
   height: 100%;
   --font1: Baskerville, baskerville-urw, 'Baskerville Old Face', 'Libre Baskerville', serif;
   --font2: Noto-serif;
+  --font3: 'League Spartan', sans-serif;
   font-family: var(--font1);
   color: var(--site-color);
   font-size: 20px;
@@ -76,12 +78,23 @@ img {
 
 nav {
   font-family: var(--font2);
-  font-size: 0.8rem;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  color: var(--site-color-light);
+  font-size: 0.7rem;
   display: flex;
   gap: 0.5rem;
   justify-content: center;
   margin-top: 60px;
   background-color: var(--site-background);
+}
+
+nav a {
+  color: var(--site-color-light);
+}
+
+nav a:hover {
+  color: var(--site-color);
 }
 
 a {
@@ -173,7 +186,16 @@ hr::after {
     transform: scale(1.05);
 }
 
-.logo {
-  border-radius: 0;
+a.logo {
+  position: fixed;
+  top: 50px;
+  left: 50px;
+  z-index: 1000;
+}
+
+img.logo {
+  border-radius: 12px;
   box-shadow: 0 0 0;
+  filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.4));
+  height: 80px;
 }

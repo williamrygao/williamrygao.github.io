@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Non-Math Home
+title: Non-Mathematical Writing
 ---
 
 # Non-Mathematical Writing

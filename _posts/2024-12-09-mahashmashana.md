@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mahashmashana
+title: Knowing I didn't go nearly far enough.
 permalink: /mahashmashana/
 ---
 
