@@ -34,7 +34,7 @@ h1 {
 h2 {
   font-family: var(--font2);
   font-size: 1.2rem;
-  margin: 10px 0;
+  /* margin: 10px 0; */
 }
 
 h3 {
@@ -110,22 +110,10 @@ a:hover {
   text-underline-offset: 5px;
 }
 
-.post h2 a {
-  color: var(--site-color);
-  text-decoration: underline;
-  text-decoration-thickness: 1.5px;
-  text-decoration-style: dotted;
-  text-underline-offset: 5px;
-}
-
-.post h2 a:hover {
-  text-decoration-style: solid;
-}
-
 ul {
   font-size: 1rem;
   list-style-type: disc;
-  padding: 20px;
+  /* padding: 20px; */
 }
 
 li {
@@ -197,5 +185,88 @@ img.logo {
   border-radius: 12px;
   box-shadow: 0 0 0;
   filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.4));
-  height: 80px;
+  height: 60px;
+  transition: transform 0.3s ease;
+}
+
+.logo img:hover {
+  transform: scale(1.1); /* Increase size by 10% */
+}
+
+.post {
+  padding: 0.25em 0;
+}
+
+.post-title-row a {
+  color: var(--site-color);
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-decoration-style: dotted;
+  text-underline-offset: 5px;
+  text-align: left;
+}
+
+.post-title-row button {
+  text-align: right;
+}
+
+.post-title-row a:hover {
+  text-decoration-style: solid;
+}
+
+.post-title-row {
+  display: flex;
+  justify-content: space-between;  /* key line: space between left and right */
+  align-items: center;
+  margin: 0;
+}
+
+.accordion-btn {
+  background: none;
+  border: none;
+  font-size: 1.2em;
+  cursor: pointer;
+  position: relative;
+  color: var(--site-color);
+}
+.accordion-btn::before {
+  content: "+";
+  display: inline-block;
+  transition: transform 0.3s ease;
+  transform: rotate(0deg);
+}
+
+.accordion-btn.open::before {
+  transform: rotate(45deg); /* turns + into × */
+}
+
+/* Panel hidden/shown */
+.accordion-panel {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+  margin-top: 0.5em;
+  padding-left: 1em;
+  border-left: 2px solid #ccc;
+  color: #555;
+}
+
+#toggle-all {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#toggle-all-button {
+  border: none;
+  font-family: var(--font2);
+  font-weight: 400;
+  font-size: 0.7rem;
+  background-color: var(--site-background);
+  color: var(--site-color-light);
+}
+
+#toggle-all-button:hover {
+  color: var(--site-color);
+  text-decoration: underline;
+  text-underline-offset: 5px;
 }

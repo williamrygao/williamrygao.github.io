@@ -4,6 +4,7 @@ title: Talk Notes and Slides
 ---
 
 # Talk Notes and Slides
+<p class="introduction">These files may contain errors.</p>
 
 <img src="/assets/images/talks.jpg" alt="Poincaré Homology Sphere" style="width: 30%">
 
