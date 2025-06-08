@@ -5,7 +5,7 @@ permalink: /classrooms1/
 ---
 
 # Why Classrooms Fail I
-<p class="date">May 2025</p>
+<p class="date">MAY 2025</p>
 
 From February to May 2025, I helped deliver an Introduction to Number Theory course at AoPS. I've decided to start writing a post-mortem for each class I teach, so that I might refine my own teaching practices, and perhaps even forward it to the AoPS curriculum developers for their consideration. I'm not sure whether I will teach number theory again, but there is still plenty to learn from this course. My reflections are roughly organized in increasing order of generality.
 

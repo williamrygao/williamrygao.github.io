@@ -5,7 +5,7 @@ permalink: /mahashmashana/
 ---
 
 # Knowing I didn't go nearly far enough.
-<p class="date">December 2024</p>
+<p class="date">DECEMBER 2024</p>
 
 The best part about Father John Misty releasing what may be the greatest
 album he'll ever make just in time for my finals is having an aqueduct for all the

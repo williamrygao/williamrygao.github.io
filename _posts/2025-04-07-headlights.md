@@ -5,7 +5,7 @@ permalink: /headlights/
 ---
 
 # In Headlight's Eye
-<p class="date">April 2025</p>
+<p class="date">APRIL 2025</p>
 
 THE HOST:
 

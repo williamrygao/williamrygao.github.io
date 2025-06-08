@@ -8,29 +8,25 @@ title: Home
 
 <p class="introduction"><i>&ldquo;Our lives are merely strange dark interludes in the electrical display of God the Father!&rdquo;</i> — Eugene O'Neill.</p>
 
-<div style="max-width: 960px; margin: 3rem auto; padding: 0 1rem;">
-  <div style="
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1.5rem;
-  ">
-    <a href="/math.html" style="text-align: center; text-decoration: none; color: inherit;">
+<div>
+  <div id="contents">
+    <a href="/math.html" class="contents-item">
       <div class="card-container">
         <img src="/assets/images/expos.png" alt="Benjamin Betts">
       </div>
-      <div style="margin-top: 0.4rem; font-size: 0.95rem;">Expository Notes</div>
+      <div>EXPOSITORY NOTES</div>
     </a>
-    <a href="/talks.html" style="text-align: center; text-decoration: none; color: inherit;">
+    <a href="/talks.html" class="contents-item">
       <div class="card-container">
         <img src="/assets/images/talks.jpg" alt="Poincaré Homology Sphere">
       </div>
-      <div style="margin-top: 0.4rem; font-size: 0.95rem;">Talk Notes and Slides</div>
+      <div>TALK NOTES & SLIDES</div>
     </a>
-    <a href="/nonmath.html" style="text-align: center; text-decoration: none; color: inherit;">
+    <a href="/nonmath.html" class="contents-item">
       <div class="card-container">
         <img src="/assets/images/nonmath.jpg" alt="Library of Babel">
       </div>
-      <div style="margin-top: 0.4rem; font-size: 0.95rem;">Non-Mathematical Writing</div>
+      <div>NON-MATHEMATICAL WRITING</div>
     </a>
   </div>
 </div>

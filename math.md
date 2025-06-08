@@ -28,7 +28,7 @@ title: Expository Notes
                     Tags: algebraic geometry, commutative algebra.
                 </p>
                 <p> 
-                    We construct the sheaf of rings on the prime spectrum of a commutative ring.
+                    Sheaves are the pillars of modern algebraic geometry. It is more accurate to think of sheaves as an extension of a topological space to facilitate the addition of further structure, rather than an additional structure itself. It may be helpful to think of a nation consisting of many provinces, which in turn consist of cities, containing neighbourhoods, and so on. Each level in this hierarchy has a set of policies; these are the sections of the presheaf. They act as a template for adding new structures. We also have rules describing how policies are passed down from the federal to the provincial, to the municipal, and so on; these are the restriction maps. This information defines a presheaf. Of course, this presheaf is only useful if we can guarantee that the various local policies inherited from the global policy can interact consistently; this is precisely the condition that makes the presheaf into a sheaf.<br>These notes construct a sheaf of rings on the prime spectrum, the set of prime ideals, of a commutative ring, using localization, radicalization, and saturation as its main tools. Algebraic geometry frequently applies geometric techniques to the prime ideals of a ring in order to study the ring's algebraic structure. This sheaf of rings provides the most common template for geometric constructions on the prime spectrum.
                 </p>
             </div>
         </div>
@@ -46,7 +46,7 @@ title: Expository Notes
                     Tags: differential topology, algebraic geometry.
                 </p>
                 <p> 
-                    We construct the algebraic geometer's definition of a tangent space to a manifold using the local ring of germs.
+                    Recall that a manifold is a topological space that looks like Euclidean (flat) space at sufficiently small regions. Manifolds occur inescapably in general relativity and statistics, and in these applications it is highly necessary to develop the tools of calculus, namely differentiation and integration, on manifolds. Just as the derivative of a function in one variable provides a rigorous description of the tangent line to the graph of the function, derivatives of functions between manifolds describe a Euclidean space that is "tangent" to the manifold, called the tangent space.<br>There exist countless equivalent constructions of the tangent space, each one more fluent for a different subfield of math, physics, or statistics. We construct the algebraic geometer's definition of a tangent space to a manifold. Intuitively, we consider the behaviour of smooth functions on the manifold at a single point, called germs. The germs that vanish at this point but whose derivatives do not capture all the directions tangent to the manifold at this point. In essence, these germs determine the tangent space. After completing this description of the tangent space, we conclude by characterizing the derivative of a smooth function between manifolds in terms of their tangent spaces.
                 </p>
             </div>
         </div>
@@ -64,7 +64,7 @@ title: Expository Notes
                     Tags: commutative algebra, algebraic geometry, topology.
                 </p>
                 <p> 
-                    An increasingly general definition of the Zariski topology, along with some interesting properties.
+                    The motto of modern geometry, both differential and algebraic, is "state globally, prove locally". This means we zoom in enough to simplify the problem space, collect data, and assemble local (zoomed in) data to deduce global properties. The motivation for this pattern is that the shapes of greatest interest are too elaborate for classical global geometry techniques. Simple local behaviours can be pieced together in incredibly rich ways, such that there would be no hope in studying these shapes on a global scale.<br>In algebraic geometry, we study the geometric characteristics of the prime spectrum (set of prime ideals) of a ring, which provides a great deal of insight into the ring itself. To apply our most cutting-edge geometric techniques, we give the prime spectrum a topological structure, the most common being the Zariski topology.<br>We investigate three incarnations of the Zariski topology. The first and most specific is formed from solution sets to polynomial equations. The second is defined directly from the prime ideals, and is the most relevant to modern algebraic geometry. The third is more category-theoretic in nature, and generalizes the previous constructions to capture the ordinal symmetry in their formulations.
                 </p>
             </div>
         </div>
@@ -100,7 +100,7 @@ title: Expository Notes
                     Tags: algebraic number theory.
                 </p>
                 <p> 
-                    A cursory peek into the duet of ring theory and number theory.
+                    Which positive integers may be expressed as a sum of two perfect squares? This innocent-looking problem stumped classical number theorists for centuries, and to this day puts forth a convincing case for the necessity of high-technology algebraic and analytic tools in the study of the structure of numbers. A common algebraic tool used in number theory is the theory of rings, which are an algebraic model of the integers, among other structures including polynomials and functions. In essence, a ring is a set furnished with addition and multiplication operations, satisfying the expected algebraic properties such as the distributive law.<br>The proof in these notes expounds on the reformulation of the sum of two squares problem as a question about rings, and uses elementary ring theory techniques to deduce a comprehensive answer.
                 </p>
             </div>
         </div>
@@ -118,7 +118,7 @@ title: Expository Notes
                     Tags: algebraic topology.
                 </p>
                 <p> 
-                    A slightly more complete treatment of the definitions and elementary results about cell complexes scattered across Hatcher's <i>Algebraic Topology</i>.
+                    Spheres, undirected graphs, projective spaces, and manifolds: these are all spaces that admit a cell complex structure. This great generality is quite surprising from the procedure according to which we construct of cell complexes, which is essentially an iterative process of gluing disks (filled-in spheres) together. This construction comes with an elegant and relatively computable description of the topological properties of the space, which assists in the classification of physical, chemical, and data structures according to their physical, chemical, and combinatorial properties. Topological invariants have found applications in computer algorithms, knot theory, string theory, nanomaterials, and semiconductors.<br>In these notes, we construct cell complexes, and prove several key properties of their topological structure.
                 </p>
             </div>
         </div>
