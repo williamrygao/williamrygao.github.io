@@ -1,4 +1,23 @@
+if (localStorage.getItem('theme') === 'dark') {
+        document.documentElement.classList.add('darkmode');
+      }
+      
 document.addEventListener("DOMContentLoaded", () => {
+  const themeBtn = document.getElementById("theme-toggle");
+  const root = document.documentElement;
+
+  // Load saved theme
+  if (localStorage.getItem("theme") === "dark") {
+    root.classList.add("darkmode");
+  }
+
+  themeBtn.addEventListener("click", () => {
+    root.classList.toggle("darkmode");
+
+    const newTheme = root.classList.contains("darkmode") ? "dark" : "light";
+    localStorage.setItem("theme", newTheme);
+  });
+
   const buttons = document.querySelectorAll(".accordion-btn");
   const panels = document.querySelectorAll(".accordion-panel");
   const toggleAllBtn = document.getElementById("toggle-all-button");

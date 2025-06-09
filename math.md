@@ -4,7 +4,7 @@ title: Expository Notes
 ---
 
 # Expository Notes
-<p class="introduction">A sandpit for my open questions, original problems possibly with solutions, one-off investigations, and expository notes on math. Correctness is not guaranteed; proceed with caution and please <a href="/contact.html">notify me</a> of any errors.</p>
+<p class="introduction">Correctness is not guaranteed; proceed with caution and please <a href="/contact.html">notify me</a> of any errors.</p>
 
 <img src="/assets/images/expos.png" alt="Betts Geometrical Psychology" style="width: 30%">
 
@@ -15,6 +15,24 @@ title: Expository Notes
 </div>
 
 <ul>
+    <li>
+        <div class="post">
+            <div>
+                <h2 class="post-title-row">
+                    <a href="/assets/files/nets.pdf" class="pdf-link" target="_blank">Casting a Wider Net: A Brief Introduction to Topology</a>
+                    <button class="accordion-btn"></button>
+                </h2>
+            </div>
+            <div class="accordion-panel">
+                <p> 
+                    Tags: topology.
+                </p>
+                <p> 
+                    This is intended as an accessible survey of topology, placing an unorthodox emphasis on nets. We assume only a basic familiarity with sets from the naive point of view. A first-year undergraduate course in calculus would help motivate certain examples in this work, but it is not strictly necessary.<br>Given a pair of sets, a topology on each set is the minimal amount of structure we must impose to discuss continuity of functions between them. More specifically, a topology is a designation of certain subsets to be `open', the prototype being open intervals of the real number line. Continuity, as a topological condition, is usually formulated in terms of the behaviour of the function between these open sets.<br>More pertinently, almost every function humankind has encountered in the hostile universe has been continuous with respect to some canonical topology: the positions of the Earth, Moon, and Sun from now until the end of this age; the ebb and flow of traffic on your way to work; the forces pushing and pulling at the meadowlark as it skips through the sky. Or, it may be more accurate to say that our present formulation of continuity, thus topology and its canon, has been modeled after the observable universe. With this perspective, continuity is a standard that every `reasonable' function we propose to carve nature at its joints should strive to meet. Failure to do so could signal an inadequacy of either the theorized function (as occurs in a reputable lab every hour) or the paradigmal topology used to describe this phenomenon (as in the curious case of quantum mechanics).<br>A topology is similarly the minimal amount of structure we must impose on a set to discuss the convergence of sequences, or as we will consider, nets. Readers familiar with sequences should understand nets as a generalization of sequences allowing the indexing set to be not necessarily the natural numbers, but any set with a sufficiently nice ordering. Those unfamiliar with sequences should spend more time acquainting themselves with sections 2 and 3.
+                </p>
+            </div>
+        </div>
+    </li>
     <li>
         <div class="post">
             <div>

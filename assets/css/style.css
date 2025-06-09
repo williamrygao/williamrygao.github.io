@@ -1,7 +1,25 @@
+:root {
+  --site-color: #3f3a41;
+  --site-color-light: #6a5d6f;
+  --site-color-very-light: #c9bbcf;
+  --site-background: #e1e1e1;
+  --link-color: #441199;
+  --hue-rotate-angle: 30deg;
+  --brightness: 1;
+}
+
+.darkmode {
+  --site-color: #c8c5b0;
+  --site-color-light: #948f75;
+  --site-color-very-light: #82742e;
+  --site-background: #2d2d2c;
+  --link-color: #d6be22;
+  --hue-rotate-angle: 200deg;
+  --brightness: 1.8;
+}
+
 html, body {
-  --site-color: #434343;
-  --site-color-light: #7a7979;
-  --site-background: #f4f4f4;
+  transition: background-color 0.3s ease, color 0.3s ease;
   height: 100%;
   --font1: Baskerville, baskerville-urw, 'Baskerville Old Face', 'Libre Baskerville', serif;
   --font2: Noto-serif;
@@ -46,7 +64,7 @@ h3 {
   font-size: 0.7rem;
   font-weight: normal;
   text-align: right;
-  color: #919191;
+  color: var(--site-color-light);
 }
 
 p {
@@ -73,7 +91,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   border-radius: 10px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
 }
 
 nav {
@@ -87,6 +105,7 @@ nav {
   justify-content: center;
   margin-top: 60px;
   background-color: var(--site-background);
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 nav a {
@@ -98,7 +117,7 @@ nav a:hover {
 }
 
 a {
-  color: #441199;
+  color: var(--link-color);
   text-decoration: none;
   display: inline;
   margin-right: 0;
@@ -133,35 +152,10 @@ hr::after {
   font-size: 1rem;
 }
 
-/* Dropdown container */
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-/* Initially hide dropdown content */
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: var(--site-background);
-  box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-
-/* Style dropdown links */
-.dropdown-content a {
-  padding: 8px 20px;
-  display: block;
-}
-
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-
 .card-container {
     overflow: hidden;
     border-radius: 10px;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
     margin: 1rem 0rem;
   }
 
@@ -185,9 +179,12 @@ a.logo {
 img.logo {
   border-radius: 12px;
   box-shadow: 0 0 0;
-  filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.4));
+  filter:
+    hue-rotate(var(--hue-rotate-angle))
+    brightness(var(--brightness))
+    drop-shadow(0 4px 6px rgba(0, 0, 0, 0.5));
   height: 60px;
-  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, filter 0.3s ease;
 }
 
 .logo img:hover {
@@ -228,12 +225,19 @@ img.logo {
   font-size: 1.2em;
   cursor: pointer;
   position: relative;
+  color: var(--site-color-light);
+  transition: transform 0.3s ease;
+}
+
+.accordion-btn:hover {
+  transform: scale(1.3);
   color: var(--site-color);
 }
+
 .accordion-btn::before {
   content: "+";
   display: inline-block;
-  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, color 0.3s ease;
   transform: rotate(0deg);
 }
 
@@ -248,8 +252,8 @@ img.logo {
   transition: max-height 0.3s ease;
   margin-top: 0.5em;
   padding-left: 1em;
-  border-left: 2px solid #ccc;
-  color: #555;
+  border-left: 2px solid var(--site-color-very-light);
+  color: var(--site-color);
 }
 
 #toggle-all {
@@ -288,4 +292,42 @@ img.logo {
 
 .contents-item:hover {
   color: var(--site-color);
+}
+
+button {
+  transition: background-color 0.3s ease, color 0.3s ease;
+  z-index: 1000;
+}
+
+#theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  margin: 1rem;
+  transition: transform 0.5s ease;
+}
+
+#theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 9999;
+  padding: 0;
+  transition: transform 0.3s ease;
+}
+
+#theme-toggle:hover {
+  transform: scale(1.1);
+}
+
+#theme-icon {
+  width: 40px;
+  height: 40px;
+  color: var(--site-color-light);
+  transition: transform 0.3s ease, color 0.3s ease;
+  transform: scaleX(-1);
 }
