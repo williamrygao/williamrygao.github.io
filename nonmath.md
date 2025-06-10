@@ -19,6 +19,21 @@ title: Non-Mathematical Writing
         <div class="post">
             <div class="post-header">
                 <h2 class="post-title-row">
+                    <a href="/blackbox">Blackbox Theorems, not Definitions</a>
+                    <button class="accordion-btn"></button>
+                </h2>
+            </div>
+            <div class="accordion-panel">
+                <p> 
+                    completeness is unscaleable • teaching calculus to Venus • responding to curious and motivated students • an assignment of priorities for allocation of mathematical rigour • other hierarchies
+                </p>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="post">
+            <div class="post-header">
+                <h2 class="post-title-row">
                     <a href="/insufficiency">A complete guide to insufficiency</a>
                     <button class="accordion-btn"></button>
                 </h2>
