@@ -1,21 +1,30 @@
 :root {
-  --site-color: #3f3a41;
-  --site-color-light: #6a5d6f;
+  --site-color: #3f3341;
+  --site-color-light: #7e6687;
   --site-color-very-light: #c9bbcf;
-  --site-background: #e1e1e1;
-  --link-color: #441199;
+  --site-background: #e1e0e0;
+  --link-color: #4710a1;
+  --selection-color: var(--site-background);
+  --selection-background-color: #360d79;
   --hue-rotate-angle: 30deg;
   --brightness: 1;
 }
 
 .darkmode {
-  --site-color: #c8c5b0;
-  --site-color-light: #948f75;
-  --site-color-very-light: #82742e;
+  --site-color: #999682;
+  --site-color-light: #928a64;
+  --site-color-very-light: #655a23;
   --site-background: #2d2d2c;
   --link-color: #d6be22;
+  --selection-color: var(--site-background);
+  --selection-background-color: #fff9c4;
   --hue-rotate-angle: 200deg;
-  --brightness: 1.8;
+  --brightness: 1.5;
+}
+
+::selection {
+  color: var(--selection-color);
+  background-color: var(--selection-background-color);
 }
 
 html, body {
@@ -300,15 +309,6 @@ button {
 }
 
 #theme-toggle {
-  background: none;
-  border: none;
-  cursor: pointer;
-  padding: 0;
-  margin: 1rem;
-  transition: transform 0.5s ease;
-}
-
-#theme-toggle {
   position: fixed;
   top: 20px;
   right: 20px;
@@ -317,7 +317,8 @@ button {
   cursor: pointer;
   z-index: 9999;
   padding: 0;
-  transition: transform 0.3s ease;
+  margin: 1rem;
+  transition: transform 0.3s ease, color 0.3s ease;
 }
 
 #theme-toggle:hover {
@@ -330,4 +331,8 @@ button {
   color: var(--site-color-light);
   transition: transform 0.3s ease, color 0.3s ease;
   transform: scaleX(-1);
+}
+
+#theme-icon:hover {
+  color: var(--site-color);
 }
