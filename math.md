@@ -15,7 +15,7 @@ title: Expository Notes
 </div>
 
 <ul>
-    <li>
+    <!-- <li>
         <div class="post">
             <div>
                 <h2 class="post-title-row">
@@ -32,7 +32,7 @@ title: Expository Notes
                 </p>
             </div>
         </div>
-    </li>
+    </li> -->
     <li>
         <div class="post">
             <div>
