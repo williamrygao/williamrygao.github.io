@@ -57,7 +57,7 @@ Gelson's. Dual scales ethereal and corporeal. In the celestial plane, lightyears
 the heads of you and I, their metaphysical frolic smiles upon us, and we carry ourselves
 to its rhythm. It's a mysticism we all believe in, yet we cannot know why. And we cannot
 interrupt it — our incompetence in this right is the root of all our misery. Its scale
-and irreconcilable absurdity inflicts in us an unshakeable urge to play the godhead, to
+and irreconcilable absurdity inflicts in us an unshakeable urge to play the Godhead, to
 upscale our conquest of all the sea. Our trembling dance yields glints of love and truth,
 but it is all lost faster than it is found. Mahāśmaśāna (महामशान) — great cremation ground,
 all things put going thither — the only eternal story: Gilgamesh, Bible, Qu'ran.
