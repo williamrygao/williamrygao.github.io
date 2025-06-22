@@ -19,7 +19,7 @@ title: Expository Notes
         <div class="post">
             <div>
                 <h2 class="post-title-row">
-                    <a href="/assets/files/nets.pdf" class="pdf-link" target="_blank">Casting a Wider Net: A Brief Introduction to Topology</a>
+                    <a href="/assets/files/nets.pdf" class="pdf-link" target="_blank">Weaving a Wider Net: A First Course in Topology</a>
                     <button class="accordion-btn"></button>
                 </h2>
             </div>
