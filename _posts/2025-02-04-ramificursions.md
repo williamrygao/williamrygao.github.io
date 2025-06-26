@@ -5,7 +5,7 @@ permalink: /ramificursions/
 ---
 
 # Pathological ramificursions in sentiment and brutality
-<p class="date">MARCH 2025</p>
+<p class="font3 right">13 MARCH 2025</p>
 
 Each year, the *Annals of Mathematics* withstands as many submissions as there are unemployed Ivy League PhD graduates. Among the goofs and gaffes and guts and guiles of these indelible souls a stoic sitzfleisch rests certain as the tickening of the atomic tock. Its progenitor kindergarten lletraferit Mister Gao — cero preprints or publications. Its title *Pathological ramificursions in sentiment and brutality.* Its contents nil — but an abstract which deflects more than it reveals. History prescribes for such instances of blasphemy to be met with public execution and / or castration. But the editorial board has with pity or anticipation tolerated his yearly submission, which is included below without his solicitation.
 

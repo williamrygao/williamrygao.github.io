@@ -5,7 +5,7 @@ permalink: /mahashmashana/
 ---
 
 # Knowing I didn't go nearly far enough.
-<p class="date">DECEMBER 2024</p>
+<p class="font3 right">12 DECEMBER 2024</p>
 
 The best part about Father John Misty releasing what may be the greatest
 album he'll ever make just in time for my finals is having an aqueduct for all the
@@ -67,20 +67,20 @@ all things put going thither — the only eternal story: Gilgamesh, Bible, Qu'ra
 That's as good as I can do for the first track, which sets the stage for the rest of
 the album. I really should study for CSC265 now, so I'll just leave my favourite
 lyrics from each remaining song:
-<p class="introduction"><i>&ldquo;The aggrieved becomes aggressor and we do it all again.&rdquo;</i> — She Cleans Up</p>
+<p class="center"><i>&ldquo;The aggrieved becomes aggressor and we do it all again.&rdquo;</i> — She Cleans Up</p>
 
-<p class="introduction"><i>&ldquo;I'd forfeit my existence
+<p class="center"><i>&ldquo;I'd forfeit my existence
 if someone let me just play with them.&rdquo;</i> — Josh Tillman and the Accidental Dose</p>
 
-<p class="introduction"><i>&ldquo;Oh, magic child, this dream we're born inside feels awful real sometimes, but it's all in your mind.&rdquo;</i> — Mental Health</p>
+<p class="center"><i>&ldquo;Oh, magic child, this dream we're born inside feels awful real sometimes, but it's all in your mind.&rdquo;</i> — Mental Health</p>
 
-<p class="introduction"><i>&ldquo;The optimist swears hope dies last, and shoots the lamplight clean from the brakeman's hand.&rdquo;</i> — Screamland</p>
+<p class="center"><i>&ldquo;The optimist swears hope dies last, and shoots the lamplight clean from the brakeman's hand.&rdquo;</i> — Screamland</p>
 
-<p class="introduction"><i>&ldquo;In my memory is a show I call the past: I watch and decide just what I would do next.&rdquo;</i> — Being You</p>
+<p class="center"><i>&ldquo;In my memory is a show I call the past: I watch and decide just what I would do next.&rdquo;</i> — Being You</p>
 
-<p class="introduction"><i>&ldquo;I followed my dreams and my dreams said to crawl.&rdquo;</i> — I Guess Time Just Makes Fools of Us All</p>
+<p class="center"><i>&ldquo;I followed my dreams and my dreams said to crawl.&rdquo;</i> — I Guess Time Just Makes Fools of Us All</p>
 
-<p class="introduction"><i>&ldquo;What do you tell the madman who wants to see you dead, when against your will comes wisdom and 40 more years left ahead?&rdquo;</i> — Summer's Gone</p>
+<p class="center"><i>&ldquo;What do you tell the madman who wants to see you dead, when against your will comes wisdom and 40 more years left ahead?&rdquo;</i> — Summer's Gone</p>
 
 ---
 

@@ -6,7 +6,7 @@ permalink: /insufficiency/
 
 # A complete guide to insufficiency
 
-<p class="date">MAY 2025</p>
+<p class="font3 right">24 MAY 2025</p>
 
 My 12- and 13-year-old cousins are diehard football / soccer fans, and every so often I discern some wisdom from their echoes of the sport's fervour, politics, and artifice. And yesterday, I heard one of the coldest quotes from Manchester United midfielder Bruno Fernandes:
 

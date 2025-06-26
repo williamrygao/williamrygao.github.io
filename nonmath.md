@@ -4,14 +4,14 @@ title: Non-Mathematical Writing
 ---
 
 # Non-Mathematical Writing
-<p class="introduction">I write to convince myself that I understand things I clearly do not.</p>
+<p class="center">I write to convince myself that I understand things I clearly do not.</p>
 
-<img src="/assets/images/nonmath.jpg" alt="Library of Babel" style="width: 30%">
+<img src="/assets/images/nonmath.jpg" class="full" alt="Library of Babel">
 
-<p class="introduction"><i>&ldquo;...and every attempt is a wholly new start, and a different kind of failure.&rdquo;</i> — T.S. Eliot.</p>
+<p class="center"><i>&ldquo;...and every attempt is a wholly new start, and a different kind of failure.&rdquo;</i> — T.S. Eliot.</p>
 
 <div id="toggle-all">
-    <button id="toggle-all-button">EXPAND ALL</button>
+    <button id="toggle-all-button" class="font3">EXPAND ALL</button>
 </div>
 
 <ul>

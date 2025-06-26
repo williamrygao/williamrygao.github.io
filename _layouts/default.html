@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/style.css">
   <script>
     window.MathJax = {
@@ -26,10 +29,10 @@
   <link rel="icon" type="image/png" href="/assets/images/boys-surface.png">
 </head>
 <body>
-  <a href="/index.html" class="logo">
+  <a href="/index.html" class="logo function">
     <img src="/assets/images/boys-surface.png" class="logo" alt="Boy's Surface">
   </a>
-  <button id="theme-toggle" aria-label="Toggle Theme">
+  <button id="theme-toggle" class="function" aria-label="Toggle Theme">
     <svg id="theme-icon" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
       <title>ic_fluent_dark_theme_24_regular</title>
         <desc>Created with Sketch.</desc>
@@ -41,7 +44,7 @@
         </g>
       </svg>
   </button>
-  <nav>
+  <nav class="font3">
     <a href="/math.html">NOTES</a>
     <span>•</span>
     <a href="/talks.html">TALKS</a>
@@ -50,7 +53,7 @@
     <span>•</span>
     <a href="/contact.html">CONTACT</a>
     <span>•</span>
-    <a href="/blogroll.html">BLOGROLL</a>
+    <a href="/rolls.html">ROLLS</a>
   </nav>
   <main>
     {{ content }}
