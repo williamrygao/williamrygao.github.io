@@ -19,6 +19,31 @@ title: Expository Notes
         <div class="post">
             <div>
                 <h2 class="post-title-row">
+                    <a href="/assets/files/submanifolds.pdf" class="pdf-link" target="_blank">Submanifolds in Euclidean Space</a>
+                    <button class="accordion-btn"></button>
+                </h2>
+            </div>
+            <div class="accordion-panel">
+                <p class="justified-line font3">
+                    <span>
+                        TAGS: differential geometry, differential topology.
+                    </span>
+                    <span class="right">
+                        4 JULY 2025
+                    </span>
+                </p>
+                <p> 
+                    Manifolds are the central object of study in differential geometry, and the natural extension of classical geometry on Euclidean (flat) spaces. Although not a precise definition, a manifold is a space that "looks like" Euclidean space on every sufficiently zoomed-in region. Such structures arise in the world around us at an even higher frequency than the over-idealistic Euclidean spaces: the surface of the Earth, the shape of a protein structure, and a doughnut are all examples of manifolds. The theory of manifolds is crucial to philosophical questions ("can an ant distinguish whether it is trawling across a doughnut versus a sphere?") and to our practical understanding of the world we inhabit (most notably in the theory of general relativity).<br>In these notes, we restrict our attention to manifolds that naturally live in Euclidean space. For these objects, the basic tools of calculus (namely the inverse and implicit function theorems) provide four interchangeable criteria for identifying manifold structures.
+                </p>
+                <a href="https://docs.google.com/document/d/1tXLPwD0YQpO9gVpMt1VGUy7qQ1Rde89fsO9sHEwwLdE/edit?usp=sharing" target="_blank">Revision history
+                </a>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="post">
+            <div>
+                <h2 class="post-title-row">
                     <a href="/assets/files/nets.pdf" class="pdf-link" target="_blank">Weaving a Wider Net: A First Course in Topology</a>
                     <button class="accordion-btn"></button>
                 </h2>
@@ -172,29 +197,6 @@ title: Expository Notes
                 </p>
                 <p> 
                     Spheres, undirected graphs, projective spaces, and manifolds: these are all spaces that admit a cell complex structure. This great generality is quite surprising from the procedure according to which we construct of cell complexes, which is essentially an iterative process of gluing disks (filled-in spheres) together. This construction comes with an elegant and relatively computable description of the topological properties of the space, which assists in the classification of physical, chemical, and data structures according to their physical, chemical, and combinatorial properties. Topological invariants have found applications in computer algorithms, knot theory, string theory, nanomaterials, and semiconductors.<br>In these notes, we construct cell complexes, and prove several key properties of their topological structure.
-                </p>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="post">
-            <div>
-                <h2 class="post-title-row">
-                    <a href="/assets/files/submanifolds.pdf" class="pdf-link" target="_blank">Equivalent Formulations of Submanifolds in Euclidean space</a>
-                    <button class="accordion-btn"></button>
-                </h2>
-            </div>
-            <div class="accordion-panel">
-                <p class="justified-line font3">
-                    <span>
-                        TAGS: differential geometry.
-                    </span>
-                    <span class="right">
-                        19 DECEMBER 2025
-                    </span>
-                </p>
-                <p> 
-                    Manifolds are the central object of study in differential geometry, and the natural extension of classical geometry on Euclidean (flat) spaces. Although not a precise definition, a manifold is a space that "looks like" Euclidean space on every sufficiently zoomed-in region. Such structures arise in the world around us at an even higher frequency than the over-idealistic Euclidean spaces: the surface of the Earth, the shape of a protein structure, and a doughnut are all examples of manifolds. The theory of manifolds is crucial to philosophical questions ("can an ant distinguish whether it is trawling across a doughnut versus a sphere?") and to our practical understanding of the world we inhabit (most notably in the theory of general relativity).<br>In these notes, we restrict our attention to manifolds that naturally live in Euclidean space. For these objects, the basic tools of calculus (namely the inverse and implicit function theorems) provide four interchangeable criteria for identifying manifold structures.
                 </p>
             </div>
         </div>
