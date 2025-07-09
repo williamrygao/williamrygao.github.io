@@ -19,6 +19,29 @@ title: Expository Notes
         <div class="post">
             <div>
                 <h2 class="post-title-row">
+                    <a href="/assets/files/hopf-algebras.pdf" class="pdf-link" target="_blank">The Symmetry of Hopf Algebras</a>
+                    <button class="accordion-btn"></button>
+                </h2>
+            </div>
+            <div class="accordion-panel">
+                <p class="justified-line font3">
+                    <span>
+                        TAGS: algebra, combinatorics.
+                    </span>
+                    <span class="right">
+                        9 JULY 2025
+                    </span>
+                </p>
+                <p> 
+                    Hopf algebras possess an incredibly rich algebraic structure, which explains their prominent role in quantum theory, classical algebra, and even combinatorics. We define Hopf algebras in quite an abstract way, but its structure arises in surprisingly concrete applications to the theory of symmetric functions. For example, the first Hopf algebra we investigate is the shuffle algebra, which models the various ways we can shuffle words together. Naturally, one might expect applications to cryptography, formal languages, and DNA sequencing. The shuffle algebra is unexpectedly related to various classes of symmetric algebras, which notably bear a more rigid structure than the shuffle algebra. There is a preliminary hope that these more elaborate structures might have something to say in the aforementioned applications.
+                </p>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="post">
+            <div>
+                <h2 class="post-title-row">
                     <a href="/assets/files/submanifolds.pdf" class="pdf-link" target="_blank">Submanifolds in Euclidean Space</a>
                     <button class="accordion-btn"></button>
                 </h2>
