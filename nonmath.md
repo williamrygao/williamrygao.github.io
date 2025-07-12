@@ -25,7 +25,7 @@ title: Non-Mathematical Writing
             </div>
             <div class="accordion-panel">
                 <p> 
-                    completeness is unscaleable • teaching calculus to Venus • responding to curious and motivated students • an assignment of priorities for allocation of mathematical rigour • other hierarchies
+                    completeness is unscaleable • teaching calculus to Neptune • responding to curious and motivated students • an assignment of priorities for allocation of mathematical rigour • other hierarchies
                 </p>
             </div>
         </div>
