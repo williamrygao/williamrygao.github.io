@@ -3,3 +3,5 @@ css: /assets/css/style.css
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+plugins:
+  - jekyll-feed

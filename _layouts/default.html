@@ -11,9 +11,16 @@
   <script>
     window.MathJax = {
       tex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']],
-        displayMath: [['$$', '$$'], ['\\[', '\\]']]
-      },
+        inlineMath: [
+            [ '$', '$' ],
+            [ '\\(', '\\)' ]
+        ],
+        displayMath: [
+            [ '\\[', '\\]' ],
+            [ '$$', '$$' ]
+        ],
+        processEscapes: true, // Use \$ for dollar sign
+        },
       svg: {
         fontCache: 'global'
       }
@@ -54,6 +61,8 @@
     <a href="/contact.html">CONTACT</a>
     <span>•</span>
     <a href="/rolls.html">ROLLS</a>
+    <span>•</span>
+    <a href="/feed.xml">RSS</a>
   </nav>
   <main>
     {{ content }}
