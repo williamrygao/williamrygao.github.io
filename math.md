@@ -19,6 +19,29 @@ title: Expository Notes
         <div class="post">
             <div>
                 <h2 class="post-title-row">
+                    <a href="/assets/files/updown.pdf" class="pdf-link" target="_blank">The Going-Up and Going-Down Theorems</a>
+                    <button class="accordion-btn"></button>
+                </h2>
+            </div>
+            <div class="accordion-panel">
+                <p class="justified-line font3">
+                    <span>
+                        TAGS: commutative algebra.
+                    </span>
+                    <span class="right">
+                        19 JULY 2025
+                    </span>
+                </p>
+                <p> 
+                    Commutative algebra is the study of rings and their ideals. If we believe rings are an abstraction of the integers, then the ideals are the sets of multiples of a fixed integer. Furthermore, an ideal is prime is this fixed integer is prime. It turns out that a mapping between rings comes with a partial correspondence of their ideals. Under the well-behaved circumstances, this becomes a complete correspondence of prime ideals. This correspondence is the essence of the lying-over, going-up, and going-down theorems.
+                </p>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="post">
+            <div>
+                <h2 class="post-title-row">
                     <a href="/assets/files/hopf-algebras.pdf" class="pdf-link" target="_blank">The Symmetry of Hopf Algebras</a>
                     <button class="accordion-btn"></button>
                 </h2>
