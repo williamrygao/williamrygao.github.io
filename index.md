@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Welcome!
-<p class="center"> I'm William, a rising third-year math specialist and computer science minor at the University of Toronto. I want to make math education more accessible. My mathematical interests are skewed towards representation theory, algebraic geometry, and differential geometry. On the computer side, I like automata theory. More broadly, I like morning swims, maximalist novels, and post-hardcore.</p>
+<p class="center"> I'm William, a rising third-year math specialist and computer science minor at the University of Toronto. I want to [make math more accessible](/_posts/2025-07-28-accessible.md). My mathematical interests are skewed towards representation theory, algebraic geometry, and differential geometry. On the computer side, I like automata theory. More broadly, I like morning swims, maximalist novels, and post-hardcore.</p>
 
 <p class="center"><i>&ldquo;Our lives are merely strange dark interludes in the electrical display of God the Father!&rdquo;</i> — Eugene O'Neill.</p>
 

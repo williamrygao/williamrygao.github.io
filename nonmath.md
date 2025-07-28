@@ -19,6 +19,21 @@ title: Non-Mathematical Writing
         <div class="post">
             <div class="post-header">
                 <h2 class="post-title-row">
+                    <a href="/accessible">Making math more accessible</a>
+                    <button class="accordion-btn"></button>
+                </h2>
+            </div>
+            <div class="accordion-panel">
+                <p> 
+                    participatory knowledge • post-Bourbaki mathematics • natural sciences and math history • examples • applied math • the future
+                </p>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="post">
+            <div class="post-header">
+                <h2 class="post-title-row">
                     <a href="/blackbox">Blackbox Theorems, not Definitions</a>
                     <button class="accordion-btn"></button>
                 </h2>
