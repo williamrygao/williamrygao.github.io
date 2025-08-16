@@ -69,10 +69,10 @@ title: Rolls
 * *Naive Set Theory* by Paul Halmos
 * *Topology; a first course* by James Munkres
 * *Algebra* by Thomas Hungerford
-* *Principles of Mathematical Analysis* by Walter Rudin
-* *Complex Analysis: An Introduction to The Theory of Analytic Functions of One Complex Variable* by Lars Ahlfors
-* (HARD) *Differential Topology* by Victor Guillemin and Alan Pollack
-* (HARD) *Introduction to Commutative Algebra* by Ian Macdonald and Michael Atiyah
+* *Real Mathematical Analysis* by Charles Pugh
+* *A Concise Course in Algebraic Topology* by J.P. May
+* *Introduction to Smooth Manifolds* by John Lee
+* *Introduction to Commutative Algebra* by Ian Macdonald and Michael Atiyah
 
 # Essayroll
 * [This is Water](https://fs.blog/david-foster-wallace-this-is-water/) by David Foster Wallace

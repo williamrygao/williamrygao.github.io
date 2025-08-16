@@ -19,6 +19,21 @@ title: Non-Mathematical Writing
         <div class="post">
             <div class="post-header">
                 <h2 class="post-title-row">
+                    <a href="/fusrp">To symmetrize the egregore</a>
+                    <button class="accordion-btn"></button>
+                </h2>
+            </div>
+            <div class="accordion-panel">
+                <p> 
+                    Summer retrospective • to immerse myself fully and never resurface • to live in fearless grace • to find my passion and potential • to see reality more clearly
+                </p>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="post">
+            <div class="post-header">
+                <h2 class="post-title-row">
                     <a href="/accessible">Making math more accessible</a>
                     <button class="accordion-btn"></button>
                 </h2>
