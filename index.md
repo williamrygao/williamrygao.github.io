@@ -21,11 +21,11 @@ title: Home
       </div>
       <div class="font3 center">TALK NOTES & SLIDES</div>
     </a>
-    <a href="/nonmath.html" class="contents-item">
+    <a href="/blog.html" class="contents-item">
       <div class="card-container">
         <img src="/assets/images/nonmath.jpg" alt="Library of Babel">
       </div>
-      <div class="font3 center">NON-MATHEMATICAL WRITING</div>
+      <div class="font3 center">BLOG</div>
     </a>
 </div>
 
