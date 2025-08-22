@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Non-Mathematical Writing
+title: Blog
 ---
 
-# Non-Mathematical Writing
+# Blog
 <p class="center">I write to convince myself that I understand things I clearly do not.</p>
 
 <img src="/assets/images/nonmath.jpg" class="full" alt="Library of Babel">
@@ -15,6 +15,21 @@ title: Non-Mathematical Writing
 </div>
 
 <ul>
+    <li>
+        <div class="post">
+            <div class="post-header">
+                <h2 class="post-title-row">
+                    <a href="/formalism">Formalism is a Brahmanism</a>
+                    <button class="accordion-btn"></button>
+                </h2>
+            </div>
+            <div class="accordion-panel">
+                <p> 
+                    Do you seriously believe that that bridge would fall down? • mathematical foundations • in favour of categories • in defense of sets • a (conspiracy) theory of sets • mathematical singularity and monotheism
+                </p>
+            </div>
+        </div>
+    </li>
     <li>
         <div class="post">
             <div class="post-header">
