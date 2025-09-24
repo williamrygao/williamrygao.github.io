@@ -19,6 +19,21 @@ title: Blog
         <div class="post">
             <div class="post-header">
                 <h2 class="post-title-row">
+                    <a href="/defense2">Defense Against the Dark Arts; Altruisto</a>
+                    <button class="accordion-btn"></button>
+                </h2>
+            </div>
+            <div class="accordion-panel">
+                <p> 
+                    Altruisto • alternatives • Shop for a Cause • Manifest v3 (again)
+                </p>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="post">
+            <div class="post-header">
+                <h2 class="post-title-row">
                     <a href="/formalism">Formalism is a Brahmanism</a>
                     <button class="accordion-btn"></button>
                 </h2>
