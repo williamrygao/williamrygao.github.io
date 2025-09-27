@@ -19,6 +19,21 @@ title: Blog
         <div class="post">
             <div class="post-header">
                 <h2 class="post-title-row">
+                    <a href="/tighter">The tighter the fist, the looser the sand</a>
+                    <button class="accordion-btn"></button>
+                </h2>
+            </div>
+            <div class="accordion-panel">
+                <p> 
+                    on advice • forcing tighter feedback loops • should you reverse any advice you *give*? • we change our minds less often than we think
+                </p>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="post">
+            <div class="post-header">
+                <h2 class="post-title-row">
                     <a href="/defense2">Defense Against the Dark Arts; Altruisto</a>
                     <button class="accordion-btn"></button>
                 </h2>
