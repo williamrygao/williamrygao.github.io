@@ -19,6 +19,21 @@ title: Blog
         <div class="post">
             <div class="post-header">
                 <h2 class="post-title-row">
+                    <a href="/triptych">Dis-belief in belief / Hineni, hineni! / A sky full of stars or a handful of dust</a>
+                    <button class="accordion-btn"></button>
+                </h2>
+            </div>
+            <div class="accordion-panel">
+                <p> 
+                    self-deception and theism • obliviousness and integrity • the well-oiled cog • lightning struck itself • floating beliefs • making your beliefs pay rent • have faith • Occam's razor, again • rationality applied
+                </p>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="post">
+            <div class="post-header">
+                <h2 class="post-title-row">
                     <a href="/tighter">The tighter the fist, the looser the sand</a>
                     <button class="accordion-btn"></button>
                 </h2>
