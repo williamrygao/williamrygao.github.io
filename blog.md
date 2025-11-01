@@ -19,6 +19,21 @@ title: Blog
         <div class="post">
             <div class="post-header">
                 <h2 class="post-title-row">
+                    <a href="/herring">The red herring principle</a>
+                    <button class="accordion-btn"></button>
+                </h2>
+            </div>
+            <div class="accordion-panel">
+                <p> 
+                    manifolds with boundary • specialization v. generalization • hyphens • problems with verbal communication
+                </p>
+            </div>
+        </div>
+    </li>
+    <li>
+        <div class="post">
+            <div class="post-header">
+                <h2 class="post-title-row">
                     <a href="/triptych">Dis-belief in belief / Hineni, hineni! / A sky full of stars or a handful of dust</a>
                     <button class="accordion-btn"></button>
                 </h2>
