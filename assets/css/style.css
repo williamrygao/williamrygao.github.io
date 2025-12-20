@@ -17,8 +17,10 @@
   --link-color: #4710a1;
   --selection-color: var(--site-background);
   --selection-background-color: #431095;
-  --hue-rotate-angle: 30deg;
+  --logo-hue-rotate-angle: 30deg;
   --brightness: 1;
+  --image-hue-rotate-angle: 200deg;
+  --image-grayscale: 65%;
 }
 
 .darkmode {
@@ -29,8 +31,10 @@
   --link-color: #d6be22;
   --selection-color: var(--site-background);
   --selection-background-color: #fff9c4;
-  --hue-rotate-angle: 200deg;
+  --logo-hue-rotate-angle: 200deg;
   --brightness: 1.5;
+  --image-hue-rotate-angle: 0deg;
+  --image-grayscale: 25%;
 }
 
 ::selection {
@@ -177,7 +181,7 @@ a.logo {
 img.logo {
   border-radius: 12px;
   filter:
-    hue-rotate(var(--hue-rotate-angle))
+    hue-rotate(var(--logo-hue-rotate-angle))
     brightness(var(--brightness));
   height: 60px;
   background-color: transparent;
@@ -281,6 +285,7 @@ img.logo {
 .card-container img {
   width: 100%;
   height: auto;
+  filter: hue-rotate(var(--image-hue-rotate-angle)) grayscale(var(--image-grayscale));
 }
 
 button {
@@ -319,4 +324,5 @@ button {
   margin-top: 2rem;
   margin-bottom: 2rem;
   width: 40%;
+  filter: hue-rotate(var(--image-hue-rotate-angle)) grayscale(var(--image-grayscale));
 }

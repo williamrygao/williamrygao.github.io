@@ -8,7 +8,7 @@ title: Blog
 
 <img src="/assets/images/nonmath.jpg" class="full" alt="Library of Babel">
 
-<p class="center"><i>&ldquo;...and every attempt is a wholly new start, and a different kind of failure.&rdquo;</i> — T.S. Eliot.</p>
+<p class="narrow center">La salle des planètes by Erik Desmazières (1997). Etching and aquatint, for La Biblioteca de Babel by Jorge Luis Borges.</p>
 
 <div id="toggle-all">
     <button id="toggle-all-button" class="font3">EXPAND ALL</button>

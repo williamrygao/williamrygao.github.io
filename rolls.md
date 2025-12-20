@@ -68,17 +68,17 @@ title: Rolls
 * *Linear Algebra Done Right* by Sheldon Axler
 * *Naive Set Theory* by Paul Halmos
 * *Topology; a first course* by James Munkres
-* *Algebra* by Thomas Hungerford
-* *Real Mathematical Analysis* by Charles Pugh
+* *Complex Analysis in One Variable* by Raghavan Narasimhan
+* *Real Analysis: Modern Techniques and Their Applications* by Gerald Folland
 * *A Concise Course in Algebraic Topology* by J.P. May
 * *Introduction to Smooth Manifolds* by John Lee
-* *Introduction to Commutative Algebra* by Ian Macdonald and Michael Atiyah
+* *Algebraic Geometry* by Robin Hartshorne
 
 # Essayroll
 * [This is Water](https://fs.blog/david-foster-wallace-this-is-water/) by David Foster Wallace
 * [You and Your Research](https://www.cs.utexas.edu/~dahlin/bookshelf/hamming.html) by Richard Hamming
 * [Violence and the Sacred: College as an incubator of Girardian terror](https://danwang.co/college-girardian-terror/) by Dan Wang
-* [Burdens](https://slatestarcodex.com/2014/08/16/burdens/) by Scott Alexander
+* [The Parable of the Talents](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/) by Scott Alexander
 * [Who Goes Nazi?](https://harpers.org/archive/1941/08/who-goes-nazi/) by Dorothy Thompson
 * [Learning in Wartime](https://www.christendom.edu/wp-content/uploads/2021/02/Learning-In-Wartime-C.S.-Lewis-1939.pdf) by C.S. Lewis
 * [That Eternal Question](https://www.lastwordonnothing.com/2012/08/13/guest-post-that-eternal-question/) by Nicholas Suntzeff

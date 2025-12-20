@@ -4,11 +4,11 @@ title: Expository Notes
 ---
 
 # Expository Notes
-<p class="center">Correctness is not guaranteed; proceed with caution and please <a href="/contact.html">notify me</a> of any errors.</p>
+<p class="center">Below are some (relatively) polished mathematical notes, hopefully written at a more accessible level than found in the literature.</p>
 
-<img src="/assets/images/expos.png" class="full" alt="Betts Geometrical Psychology">
+<img src="/assets/images/expos.jpg" alt="Radiolaria" class="full">
 
-<p class="center"><i>&ldquo;Unfortunately, not all the world is as funny as the one we're making.&rdquo;</i> — John Cage.</p>
+<p class="narrow center">Radiolaria Plate 117. Cannorrhaphida, Medusettida et Circoporida by Ernst Haeckel (1887). From <i>Report on the Radiolaria collected by H.M.S. Challenger during the years 1873-1876</i>.</p>
 
 <div id="toggle-all">
     <button id="toggle-all-button" class="font3">EXPAND ALL</button>
