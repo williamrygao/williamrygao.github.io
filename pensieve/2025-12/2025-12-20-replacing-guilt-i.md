@@ -4,6 +4,7 @@ title: Notes on Nate Soares's Replacing Guilt I
 ---
 
 # Notes on Nate Soares's Replacing Guilt I: Half-assing it with everything you've got
+<p class="font3 right">20 DECEMBER 2025</p>
 Read the essay [here](https://mindingourway.com/half-assing-it-with-everything-youve-got/).
 
 The first in a series of essays by Nate Soares describing a path to reorienting motivation away from guilt and shame. Here Nate denounces the false dichotomy of 'slackers' (whose preferences are orthogonal to quality of work) and 'tryers' (whose preferences are parallel to quality of work). In the fuzzy reality he describes, the preferences of most people lie somewhere in between. His slogan 'succeed, with no wasted motion' invites the analogy of projecting one's preference vector onto the quality line to obtain a relatively robust evaluation metric. Of course, one need not forget about the remaining dimensions of their preference vector! My analogy carries the unfortunate assumption that preferences are linear, which I'm quite sure is unbelievably false.
