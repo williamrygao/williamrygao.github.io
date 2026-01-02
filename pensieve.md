@@ -12,5 +12,6 @@ title: Pensieve
 
 ## Folders
 * <a href="/pensieve/2025-12/2025-12.html">December 2025</a>.
+* <a href="/pensieve/2026-01/2026-01.html">January 2026</a>.
 
 ---
