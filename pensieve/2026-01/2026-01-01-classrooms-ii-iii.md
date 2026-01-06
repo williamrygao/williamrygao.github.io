@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Why Classrooms Fail II-III
-permalink: /classrooms2-3/
 ---
 
 # Why Classrooms Fail II-III
