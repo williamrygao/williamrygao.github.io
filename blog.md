@@ -10,11 +10,13 @@ title: Blog
 
 <p class="narrow center">La salle des planètes by Erik Desmazières (1997). Etching and aquatint, for La Biblioteca de Babel by Jorge Luis Borges.</p>
 
-<div id="toggle-all">
-    <button id="toggle-all-button" class="font3">EXPAND ALL</button>
-</div>
+Under (re)construction.
 
-<ul>
+<!-- <div id="toggle-all">
+    <button id="toggle-all-button" class="font3">EXPAND ALL</button>
+</div> -->
+
+<!-- <ul>
     <li>
         <div class="post">
             <div class="post-header">
@@ -315,6 +317,6 @@ title: Blog
             </div>
         </div>
     </li>
-</ul>
+</ul> -->
 
 ---

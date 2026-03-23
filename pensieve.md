@@ -14,5 +14,6 @@ title: Pensieve
 * <a href="/pensieve/archive/archive.html">Pre-December 2025</a>.
 * <a href="/pensieve/2025-12/2025-12.html">December 2025</a>.
 * <a href="/pensieve/2026-01/2026-01.html">January 2026</a>.
+* <a href="/pensieve/2026-03/2026-03.html">March 2026</a>.
 
 ---
