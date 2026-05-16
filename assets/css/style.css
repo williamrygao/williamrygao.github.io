@@ -13,14 +13,14 @@
   --site-color: #3f3341;
   --site-color-light: #8e8292;
   --site-color-very-light: #c9bbcf;
-  --site-background: #ecebed;
+  --site-background: #fafafa;
   --link-color: #4710a1;
   --selection-color: var(--site-background);
   --selection-background-color: #431095;
   --logo-hue-rotate-angle: 30deg;
   --brightness: 1;
-  --image-hue-rotate-angle: 200deg;
-  --image-grayscale: 65%;
+  --image-hue-rotate-angle: 0deg;
+  --image-grayscale: 50%;
 }
 
 .darkmode {
@@ -34,7 +34,7 @@
   --logo-hue-rotate-angle: 200deg;
   --brightness: 1.5;
   --image-hue-rotate-angle: 0deg;
-  --image-grayscale: 25%;
+  --image-grayscale: 50%;
 }
 
 ::selection {
@@ -49,7 +49,7 @@ html, body {
   --font3: 'Crimson Text';
   font-family: var(--font1);
   color: var(--site-color);
-  font-size: 20px;
+  font-size: 16px;
   text-align: justify;
   line-height: 1.6;
   display: flex;
@@ -68,7 +68,7 @@ h1 {
 
 h2 {
   font-family: var(--font2);
-  font-size: 1.2rem;
+  font-size: 1.6rem;
   /* margin: 10px 0; */
 }
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Pensieve; Pre-December 2025
+title: Archive; Pre-December 2025
 ---
 
-# Pensieve; Pre-December 2025
-* [Goodnotes archive](/pensieve/archive/2026-01-30-goodnotes-archive.pdf)
+# Archive; Pre-December 2025
+* [Goodnotes archive](/archive/archive/2026-01-30-goodnotes-archive.pdf)
 
 ## Old writings
 * <a href="/herring">The red herring principle</a>
